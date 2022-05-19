@@ -67,13 +67,13 @@ Jan je prorokem v říši autobusáků. Vážný i chlapecký, soustředěný 
 
 Není to ovšem žádný Jarmuschův Paterson. I když i Jan napíše občas básničku, třeba tuhle:
 
-Navštívil jsem kamaráda  
+_Navštívil jsem kamaráda  
 Plechového rozervaného  
 raněného.  
 Před vraty zavřenými  
 jako ty moje  
 před nimiž stojíš ty  
-a tvoje bolest.
+a tvoje bolest._
 
   
 

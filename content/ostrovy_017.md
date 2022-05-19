@@ -51,10 +51,10 @@ Roky Evelíně plynuly a Evelína plynula rokům.
 
 Někdy tou dobou začala psát básně; a byla to pro ni úplně jiná, a přesto logická návaznost. Psávala jednoduché básně ve slovenštině o řeči a o těle.
 
-Sú anjeli skutočne neistí?  
+_Sú anjeli skutočne neistí?  
 Majú len ústa a dlane a oči,  
 alebo aj pohlavie,  
-ktorým nás za tmy pohladia?
+ktorým nás za tmy pohladia?_
 
   
 
@@ -72,8 +72,8 @@ Stala se sociálně ještě citlivější, pokud je to vůbec možné. Jezdila p
 
 Občas ji napadl nějaký podivuhodný obraz, který byl skutečnou básní:
 
-Môj život je bystrý ako riečka,  
-ktorá netečie.
+_Môj život je bystrý ako riečka,  
+ktorá netečie._
 
 Ale většinu času, přiznejme si, nenapadalo Evelínu vůbec nic. Oddávala se zenově plynutí času a občas si to mimojazykové plynutí obřadně zaznamenávala v jakémsi polohalucinačním stavu na papírky a pak s nimi tancovala po kuchyni s výhledem do dvora. Jednou za měsíc zašla na úřad práce, dvakrát za rok na podpůrné sezení umělců na volné noze či nějaký nesmyslný koučink, občas ke svému psychologovi.
 
