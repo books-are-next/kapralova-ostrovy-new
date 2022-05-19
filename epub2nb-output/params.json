@@ -1,11 +1,15 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Ostrovy",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Dora Kaprálová",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-11-25T00:00:00.000Z"
+      "modified": "2021-11-25T00:00:00.000Z",
+      "contentType": "prose",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP_ uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
@@ -21,60 +25,65 @@
       "brAfter": "",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
-      "verse": "MLP-verse\nMLP-verse.+",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat\nMLP_verse_-I-_-12-12-",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
       "remove": "",
-      "ignore": ""
+      "ignore": "",
+      "verse": "MLP-verse\nMLP-verse.+"
     },
     "structure": [
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "ostrovy_001.md",
             "xhtml": "ostrovy_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "ostrovy_002.md",
             "xhtml": "ostrovy_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "ostrovy_003.md",
             "xhtml": "ostrovy_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "ostrovy_004.md",
             "xhtml": "ostrovy_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "ostrovy_005.md",
@@ -85,7 +94,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ostrov ohraničených přání"
           },
           {
             "filename": "ostrovy_006.md",
@@ -96,7 +107,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ostrov ohraničené naděje"
           },
           {
             "filename": "ostrovy_007.md",
@@ -107,7 +120,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ostrov ohraničené samoty"
           },
           {
             "filename": "ostrovy_008.md",
@@ -118,7 +133,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ostrov ohraničené spásy"
           },
           {
             "filename": "ostrovy_009.md",
@@ -129,7 +146,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ostrov ohraničené radosti"
           },
           {
             "filename": "ostrovy_010.md",
@@ -140,7 +159,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ostrov ohraničené blízkosti"
           },
           {
             "filename": "ostrovy_011.md",
@@ -151,7 +172,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ostrov ohraničené poezie"
           },
           {
             "filename": "ostrovy_012.md",
@@ -162,7 +185,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ostrov ohraničené zpovědi"
           },
           {
             "filename": "ostrovy_013.md",
@@ -173,7 +198,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ostrov ohraničené lidskosti"
           },
           {
             "filename": "ostrovy_014.md",
@@ -184,7 +211,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ostrov ohraničeného ráje"
           },
           {
             "filename": "ostrovy_015.md",
@@ -195,7 +224,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ostrov ohraničené sklíčenosti"
           },
           {
             "filename": "ostrovy_016.md",
@@ -206,7 +237,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ostrov ohraničeného porozumění"
           },
           {
             "filename": "ostrovy_017.md",
@@ -217,7 +250,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ostrov ohraničených možností"
           },
           {
             "filename": "ostrovy_018.md",
@@ -228,7 +263,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ostrov ohraničených smyslů"
           },
           {
             "filename": "ostrovy_019.md",
@@ -239,7 +276,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ostrov ohraničené nekonečnosti"
           },
           {
             "filename": "ostrovy_020.md",
@@ -250,7 +289,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ostrov ohraničeného vidění"
           },
           {
             "filename": "ostrovy_021.md",
@@ -261,7 +302,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ostrov ohraničené konečnosti"
           },
           {
             "filename": "ostrovy_022.md",
@@ -272,7 +315,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ostrov ohraničených souznění"
           },
           {
             "filename": "ostrovy_023.md",
@@ -283,7 +328,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ostrov ohraničeného poznání"
           },
           {
             "filename": "ostrovy_024.md",
@@ -294,7 +341,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ostrov ohraničené plnosti"
           },
           {
             "filename": "ostrovy_025.md",
@@ -305,7 +354,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ostrov ohraničené anekdoty"
           },
           {
             "filename": "ostrovy_026.md",
@@ -316,18 +367,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Poznámka"
           },
           {
             "filename": "ostrovy_027.md",
             "xhtml": "ostrovy_027.xhtml",
             "id": 26,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -573,6 +627,6 @@
       "user": "books-are-next",
       "repo": "kapralova-ostrovy-new"
     },
-    "generatedAt": 1652970714391
+    "generatedAt": 1652971382930
   }
 }

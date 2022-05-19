@@ -1,0 +1,529 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Ostrovy",
+  "author": "Dora Kaprálová",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "kapralova-ostrovy-4c84192",
+  "revision": "4c84192",
+  "readingOrder": [
+    "promo.html",
+    "ostrovy_005.html",
+    "ostrovy_006.html",
+    "ostrovy_007.html",
+    "ostrovy_008.html",
+    "ostrovy_009.html",
+    "ostrovy_010.html",
+    "ostrovy_011.html",
+    "ostrovy_012.html",
+    "ostrovy_013.html",
+    "ostrovy_014.html",
+    "ostrovy_015.html",
+    "ostrovy_016.html",
+    "ostrovy_017.html",
+    "ostrovy_018.html",
+    "ostrovy_019.html",
+    "ostrovy_020.html",
+    "ostrovy_021.html",
+    "ostrovy_022.html",
+    "ostrovy_023.html",
+    "ostrovy_024.html",
+    "ostrovy_025.html",
+    "ostrovy_026.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Thu May 19 2022 14:44:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652971457890
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "ostrovy_005.html",
+      "toc": []
+    },
+    {
+      "title": "Ostrov ohraničených přání",
+      "file": "ostrovy_005.html",
+      "words": 1380,
+      "chars": 8270,
+      "ideas": 58,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "ostrovy_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ostrov ohraničených přání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrov ohraničené naděje",
+      "file": "ostrovy_006.html",
+      "words": 1483,
+      "chars": 9271,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 2,
+      "prev": "ostrovy_005.html",
+      "next": "ostrovy_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ostrov ohraničené naděje",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrov ohraničené samoty",
+      "file": "ostrovy_007.html",
+      "words": 1482,
+      "chars": 9089,
+      "ideas": 69,
+      "role": "chapter",
+      "order": 3,
+      "prev": "ostrovy_006.html",
+      "next": "ostrovy_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ostrov ohraničené samoty",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrov ohraničené spásy",
+      "file": "ostrovy_008.html",
+      "words": 1316,
+      "chars": 8218,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 4,
+      "prev": "ostrovy_007.html",
+      "next": "ostrovy_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ostrov ohraničené spásy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrov ohraničené radosti",
+      "file": "ostrovy_009.html",
+      "words": 1524,
+      "chars": 9226,
+      "ideas": 82,
+      "role": "chapter",
+      "order": 5,
+      "prev": "ostrovy_008.html",
+      "next": "ostrovy_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ostrov ohraničené radosti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrov ohraničené blízkosti",
+      "file": "ostrovy_010.html",
+      "words": 1504,
+      "chars": 8936,
+      "ideas": 58,
+      "role": "chapter",
+      "order": 6,
+      "prev": "ostrovy_009.html",
+      "next": "ostrovy_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ostrov ohraničené blízkosti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrov ohraničené poezie",
+      "file": "ostrovy_011.html",
+      "words": 1082,
+      "chars": 6431,
+      "ideas": 56,
+      "role": "chapter",
+      "order": 7,
+      "prev": "ostrovy_010.html",
+      "next": "ostrovy_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ostrov ohraničené poezie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrov ohraničené zpovědi",
+      "file": "ostrovy_012.html",
+      "words": 1699,
+      "chars": 10047,
+      "ideas": 89,
+      "role": "chapter",
+      "order": 8,
+      "prev": "ostrovy_011.html",
+      "next": "ostrovy_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ostrov ohraničené zpovědi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrov ohraničené lidskosti",
+      "file": "ostrovy_013.html",
+      "words": 490,
+      "chars": 2850,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 9,
+      "prev": "ostrovy_012.html",
+      "next": "ostrovy_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ostrov ohraničené lidskosti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrov ohraničeného ráje",
+      "file": "ostrovy_014.html",
+      "words": 2252,
+      "chars": 14368,
+      "ideas": 64,
+      "role": "chapter",
+      "order": 10,
+      "prev": "ostrovy_013.html",
+      "next": "ostrovy_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ostrov ohraničeného ráje",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrov ohraničené sklíčenosti",
+      "file": "ostrovy_015.html",
+      "words": 4268,
+      "chars": 24698,
+      "ideas": 111,
+      "role": "chapter",
+      "order": 11,
+      "prev": "ostrovy_014.html",
+      "next": "ostrovy_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ostrov ohraničené sklíčenosti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrov ohraničeného porozumění",
+      "file": "ostrovy_016.html",
+      "words": 852,
+      "chars": 5150,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 12,
+      "prev": "ostrovy_015.html",
+      "next": "ostrovy_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ostrov ohraničeného porozumění",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrov ohraničených možností",
+      "file": "ostrovy_017.html",
+      "words": 2388,
+      "chars": 14851,
+      "ideas": 116,
+      "role": "chapter",
+      "order": 13,
+      "prev": "ostrovy_016.html",
+      "next": "ostrovy_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ostrov ohraničených možností",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrov ohraničených smyslů",
+      "file": "ostrovy_018.html",
+      "words": 957,
+      "chars": 5766,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 14,
+      "prev": "ostrovy_017.html",
+      "next": "ostrovy_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ostrov ohraničených smyslů",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrov ohraničené nekonečnosti",
+      "file": "ostrovy_019.html",
+      "words": 1998,
+      "chars": 12286,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 15,
+      "prev": "ostrovy_018.html",
+      "next": "ostrovy_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ostrov ohraničené nekonečnosti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrov ohraničeného vidění",
+      "file": "ostrovy_020.html",
+      "words": 844,
+      "chars": 5328,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 16,
+      "prev": "ostrovy_019.html",
+      "next": "ostrovy_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ostrov ohraničeného vidění",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrov ohraničené konečnosti",
+      "file": "ostrovy_021.html",
+      "words": 3,
+      "chars": 28,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 17,
+      "prev": "ostrovy_020.html",
+      "next": "ostrovy_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ostrov ohraničené konečnosti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrov ohraničených souznění",
+      "file": "ostrovy_022.html",
+      "words": 1345,
+      "chars": 8003,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 18,
+      "prev": "ostrovy_021.html",
+      "next": "ostrovy_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ostrov ohraničených souznění",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrov ohraničeného poznání",
+      "file": "ostrovy_023.html",
+      "words": 1704,
+      "chars": 10285,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 19,
+      "prev": "ostrovy_022.html",
+      "next": "ostrovy_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ostrov ohraničeného poznání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrov ohraničené plnosti",
+      "file": "ostrovy_024.html",
+      "words": 1842,
+      "chars": 11077,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 20,
+      "prev": "ostrovy_023.html",
+      "next": "ostrovy_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ostrov ohraničené plnosti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrov ohraničené anekdoty",
+      "file": "ostrovy_025.html",
+      "words": 537,
+      "chars": 3318,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 21,
+      "prev": "ostrovy_024.html",
+      "next": "ostrovy_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ostrov ohraničené anekdoty",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poznámka",
+      "file": "ostrovy_026.html",
+      "words": 116,
+      "chars": 743,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 22,
+      "prev": "ostrovy_025.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 114,
+      "chars": 726,
+      "ideas": 15,
+      "role": "colophon",
+      "order": null,
+      "prev": "ostrovy_026.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 31185,
+      "chars": 188997,
+      "ideas": 1143
+    },
+    "chapters": {
+      "words": 31066,
+      "chars": 188239,
+      "ideas": 1124
+    }
+  }
+}
