@@ -3,8 +3,6 @@ title: Ostrov ohraničené spásy
 contentType: prose
 ---
 
-  
-
 Snad to nebude znít moc sentimentálně. Ale po deseti letech koktavě náročného a někdy i překvapivě dobrodružného života v Berlíně vnímám konečně naplno ten osvobozující stav: zůstanu tu už napořád cizinkou v ostrovním světě, jehož břehy omývá vzdálené, v podstatě nudné Německo.
 
 Berlín je mi nekonečným prostorem tak blízký a zimním chladem beze sněhu tak vzdálený, že se ve mně permanentně sváří pocity naprostého zhnusení a skoro mateřské, zaslepené lásky. Berlín je nemocný melancholií falešného středu.
@@ -37,6 +35,8 @@ Tohle vyprávění, koktavě roztřesené vlakové vyprávění, píšu v dynam
 
 A jak za okny vlaku ubíhá krajina, propadám se znovu do polobdělého stavu.
 
+  
+
 Zimní obraz z dětství. Jeden z nejsilnějších. Je mi osm a jdu se svým jedenáctiletým bratrem lesem z naší chaty do vesnice Praskolesy. Je polovina osmdesátých let.
 
 Ze stromů se k zemi co chvíli sesune kus sněhu, sníh ze stromů stéká, jako by smrky měly rýmu. Na lesní cestě prosvítá tu a tam jehličí, mrholí, dlaně mám v kapsách bundy zimomřivě sevřené v pěst a bratr drží kanystr, se kterým jsme původně šli pro vodu. Jdeme a nejspíš mlčíme, dost možná kopeme do smrkové šišky.
@@ -48,6 +48,8 @@ Začíná se postupně ochlazovat, zvedá se vítr. Mrholení už přechází v�
 Praskolesy jsou tak malé, že v nich není ani obchod s potravinami ani kostel. Jednou za týden v úterý sem přijíždí kulatý autobus s pojízdnou prodejnou, ale jen v letní sezoně. Je tu však osm set let stará památeční lípa se zvoničkou v široké dutině stromu. U lípy čas od času, hlavně v létě, zastavují auta, většinou smradlavé žigulíky a škody sto pět. Občas se sem z Telče zatoulá i malý renault s francouzskou poznávací značkou. Jejich elegantní pasažéry z jiného světa sledujeme obzvlášť pozorně.
 
 Jedinou skrytější atrakcí Praskoles roku 1983 je už jen rozpadající se chalupa, které se vyhýbáme a která nás přitahuje, protože v ní žije bláznivá, neprovdaná paní Šetlíková. Žije v jedné místnosti se třiceti kočkami, s kozou a drůbeží. Nemá elektřinu, podobně jako my. Tahle skutečnost nás zdánlivě spojuje. Některá zvířata spí s paní Šetlíkovou v posteli, šušká se ve vsi, jiná mají svoje pelíšky na okenním parapetu.
+
+  
 
 Nepamatuju se, proč jsme tehdy do téhle vesničky šli. Za Šetlíkovou stěží.
 

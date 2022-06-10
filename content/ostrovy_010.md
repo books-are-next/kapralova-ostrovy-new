@@ -3,8 +3,6 @@ title: Ostrov ohraničené blízkosti
 contentType: prose
 ---
 
-  
-
 Nikdy jsem neslyšela silnější příběh ohraničené blízkosti než ten, který mi před sedmnácti lety vyprávěl jeden starý muž – entomolog Ladislav. Zaujal mě, protože byl váženým profesorem, zpíval árie a jeho chuť žít byla přesným opakem mého strachu ze všeho, co zavání životem.
 
 Nejspíš proto mě to napadlo: natočit o Ladislavovi dokument. A tak zatímco jsem já, pětadvacetiletá, zkoumala Ladislava – osmdesátiletý entomolog Ladislav zkoumal masařky.
@@ -23,6 +21,8 @@ Dolů z kopce jsme šli už rozvážněji a Ladislav si spokojeně odnášel v
 
 Začalo pršet.
 
+  
+
 U Ladislava doma jsme si připili na život. Hřmělo a lilo už jako z konve. A protože mě kopulace masařek a masařáků nezajímala tolik jako láska z pohledu starého muže, zeptala jsem se profesora na lásku.
 
 A tehdy mi Ladislav odvyprávěl příběh, který jsem nemohla zveřejnit, dokud ještě žil.
@@ -30,6 +30,8 @@ A tehdy mi Ladislav odvyprávěl příběh, který jsem nemohla zveřejnit, dok
 Jenže Ladislav je už patnáct let mrtvý. Masařky a masařáci taky a kdo ví, co je s tím venkovským idiotem.
 
 Jediné, co přežilo, je tento příběh.
+
+  
 
 Ladislav byl koncem druhé světové války totálně nasazený v Berlíně a v lednu 1945 nastoupil do továrny Siemens ve Spandau. Jenže po necelém měsíci dostal záškrt. A to tak těžký, že začal blouznit a přestal mluvit, česky i německy. Jeho vídeňští kamarádi ho protekčně dostali do německého špitálu svatého Josefa. Tam ležel v horečkách bez hnutí, mimo tento svět, hodiny, dny a týdny…
 
@@ -57,6 +59,8 @@ Po dalších třech letech složitého pátrání se mu to přes Červený kří
 
 Napsal jí v prosinci rozechvěle dopis, ve kterém popsal své berlínské umírání, její tvář, zázračné uzdravení, jejich plány, nálet, Mariino zmizení. Popsal celý svůj poválečný život, dopis měl skoro sedmdesát stran. Do obálky nakonec vložil motýla jasoně.
 
+  
+
 Ten první dopis, co mu Maria poslala z Frankfurtu nad Mohanem, byl pro Ladislava jako blesk z čistého nebe. Pamatovala si všechno. A možná ještě pečlivěji. I to, jak poprvé promluvil a co řekl, jak se usmál a že mu ústa utřela pravým malíčkem…
 
 Ladislav odepsal, Maria odepsala.
@@ -81,6 +85,8 @@ Od té chvíle mi začal tykat…
 
 Tehdy,“ říkal mi Ladislav šeptem, „tehdy mi Maria zmizela podruhé. A už napořád.“
 
+  
+
 Po převratu se profesor věnoval motýlům.
 
 Ženu už si nehledal. Po večerech ale znovu a znovu otvíral Mariiny dopisy a četl si v nich…
@@ -93,6 +99,8 @@ Nakonec v ďábelském opojení otevřel i poslední obálku s Mariinou fotog
 
 Smál se přitom jako šílenec.
 
+  
+
 A jak celý příběh skončil?
 
 Ty dopisy chtěl samozřejmě okamžitě znovu mít, chtěl si je ráno všechny znovu číst.
@@ -102,6 +110,8 @@ A nemohl.
 Řekl mi už docela zoufale: „Víš. Když jsem vystřízlivěl, uviděl jsem sám sebe v té nejhnusnější syrovosti. Spálit dopisy je beznaděj, ale spálit fotku milované ženy, to už je čiré peklo. Už se mi nezdává jen o Marii, ale o tom, jak si čtu její dopisy, a co všechno nás s Marií pojí, čtu si v těch dopisech její mladou tvář, pohyby rukou, v těch dopisech lítají motýli, masařky i zajíci, zpívá v nich Bystrouška s Marií, a někde v dálce hoří, ale nás to nikdy, nikdy neohrozí. Je to tak krásné a nesmrtelné.
 
 Jenže se pak probudím zbrocený potem a vím, že ani ty dopisy, ani ty pitomé dopisy už nemám. Že z Marie nemám nic. Vůbec nic… A přitom, přitom to byla láska, která pálí víc než smrt maminky, než rozvod… víc než to, že jsem dvacet let nemohl pracovat.“ Pak se tiše rozvzlykal: „Navíc jsem si jistý, že jsem tím Marii zabil. Vím, že Maria zemřela. Neumím to vysvětlit, ale prostě to vím. Tak jako vím, že dneska na tom kopci rozhodně s masařkou deset masařáků nekopulovalo, protože ta mršina, ten zajíc, byla ještě málo odleželá. To jsem ti neřekl. Všechno potřebuje čas. Jenže něčemu ani čas nepomůže…“
+
+  
 
 O dva roky později profesor umřel.
 

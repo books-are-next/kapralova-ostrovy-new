@@ -3,8 +3,6 @@ title: Ostrov ohraničeného ráje
 contentType: prose
 ---
 
-  
-
 Ráj srdce? Domov?
 
 Ten je přece k nalezení v Rixdorfu, říkám si pokaždé, když šlapu na kole zpátky do nudně turistického Friedrichshainu, kde devátým rokem bydlím.
@@ -23,7 +21,11 @@ Pan Nabeel z optiky v ulici Karla Marxe mi taky odstranil pomocí masti koncem
 
 Tolik o jižní bráně do Rixdorfu a panu Nabeelovi.
 
+  
+
 Když vstoupíte do Rixdorfu ze severovýchodní části Sluneční aleje směrem od městského parku, minete stánek s kebabem a nápisem: _Snový roh_. Ve stánku posedávají znavení muži slovanského, německého, tureckého a těžko identifikovatelného vzezření, kteří na ráj čekají ve stínu očistce. V ruce drží pivní lahev a kuřivo, na sobě tu a tam montérky, čas všednosti rytmicky odklepávají popelem z cigaret.
+
+  
 
 Němci mají pořekadlo, v němž místo španělská vesnice používají pro popis duševní zmatenosti pojem česká vesnice.
 
@@ -32,6 +34,8 @@ A tam tedy mířím ve své poutnické blouznivosti, do české vesnice… Ulic
 Na parapetech oken přízemních bytů početných tureckých a indických rodin potkávám ve své ulici sošky indiánů, sošku mávající anglické královny, smějí se na mě kaktusy s porcelánovými kravičkami, vítají mě umělohmotné záclony. Tady je tedy mé doma: v Schudomastrasse. Tady bych měla najít lusthauz svého srdce. V ulici s domovem důchodců, hotelem pro kočičky, polsko-tureckým bistrem Schudomaer s grilovanými kuřaty. A s jazykovou školou němčiny pro imigranty a analfabety ZeBus, kde čas od času navštěvuji svou známou Nibel, v Berlíně vystudovanou, věčně se smějící imigrantku z Maroka, co přijímá nové, většinou válečné běženkyně s malinkými dětmi.
 
 Kolo si obvykle zamykám na náměstí Esperantistů, jdu a pečlivě nahlížím do všech dveří a domovních vrat své ulice, fotím si autisticky v ulici Šudomová všechna příjmení českého původu, a hle: Pavlovič v domě č. 32, Nowak v domě naproti, a hle, Maresch! Zazvonit si netroufám…
+
+  
 
 Rixdorf je možná ze všeho nejvíc snem; Sluneční alejí vstoupíte z reality do snu. Herzbergerovou ulicí míjíte kavárnu Třetí prostor, ve které si můžete na nástěnku napsat všechna svá přání a potřeby: _Chci sex s opičkou. Sháním keyboard. Hledám spolubydlícího za 300 eur. Nemáte prosím králíčka?_
 
@@ -45,11 +49,15 @@ Váleční imigranti z Balkánu a z Blízkého východu pracují spíš jako 
 
 Včera jsem v Richardově ulici potkala šíita. Vystoupil z bouráku se švýcarskou značkou a nesl si z prádelny vyžehlené košile.
 
+  
+
 Je tohle ráj? Je tohle máj? Máj napořád?
 
 V posledních třech letech se do Neuköllnu stěhuje čím dál více mladých lidí ze solidně prosperujících zemí. Vytvářejí v české i německé vesnici novou enklávu hipsterství, zakládají rodiny Všezvědů Bio-Všudybudů. A s hisptery do Rixdorfu přichází velkoměstský kapitál západního světa a s ním úzkost místních řemeslníků, podnikatelů, řadových obchodníků, nezaměstnaných a umělců všeho druhu.
 
 Posledních pět let bydleli ve čtyřpokojových měšťanských bytech za 600 eur měsíčně, a dnes makléři ty samé byty nabízejí za 1800 eur a víc. Co se stane s obyčejnými lidmi? Prchnou? Kam? Do zahrady J. A. Komenského? Co se stane s českým ostrovem?
+
+  
 
 Sinicův otec utekl z Albánie v roce 1991. S pěti dětmi, ženou, tchyní a strýcem. Otevřeli si přímo na Českém náměstí v Rixdorfu pekárnu s přívětivým nájmem a ušpiněnými tácky šťavnatých sladkostí.
 
@@ -59,6 +67,8 @@ Místní (hlavně váleční migranti) zkrátka vědí, jak v české vesnici p
 
 Tolik k folkloru Českého náměstí, kde – málem bych zapomněla – prodávají v České pizzerii pravou tureckou pizzu. A kde stojí nejkrásnější amatérské divadlo venkovského světa: Hotel Rixdorf.
 
+  
+
 Uprostřed Českého náměstí, kde má Sinica svou albánskou pekárnu, stojí pingpongový stůl.
 
 Nedávno jsem se pokusila spočítat všechny pingpongové stoly v celém Rixdorfu, bylo jich šestnáct a jeden z nich byl v hipsterské kavárně Sestry v nouzi.
@@ -67,15 +77,21 @@ Když jsem vešla na jaře do Českého Rixdorfu a zamyšleně kráčela sobotn
 
 Ping-pong hrála skvěle, dávala prasata i smeče, na lavičce seděl její vrásčitý tatínek neurčitého věku, vedle měl osm malých lahviček vodky. Blaženě se usmíval do jarního slunce. Zapinkaly jsme si, rozloučily se. „Bydlíte tady? Jste doma?“ ptám se zadýchaně. „A proč jako…“ zahučí oba a já vím, že hrát ping-pong beze slov je někdy víc než vést otravné výzkumnické hovory.
 
+  
+
 Dnes je zase sobota. Máj. Stojím v domovině na svém Českém náměstí. Starý turecký taťka hraje pod májkou na náměstí ping-pong s půvabnou dánskou studentkou biochemie. Na lavičce sedí kluci v pubertě a pokřikují, že Igor má malýho ptáka. Igor jezdí na koloběžce kolem dokola, přerostlý kníratý chlapec neněmeckého původu, občas zastaví u kamarádů a dá jim ránu. Pingpongový míček létá tam a zase zpátky. Odráží se od stolu v rytmu, v jakém mladá vystajlovaná číšnice kmitá na chodníku kolem zákazníků nenáviděné hypermoderní kavárny Snídaně budoucnosti. Turecká mamka pokřikuje z lavičky na taťku kanak-němčinou, že nezaplatil telefon.
 
 Pofukuje mírný středoevropský větřík, ostrované z české vesnice se líně poflakují květnovou sobotou. Jsou tady doma. Jsou v srdci české vesnice. Jsou ale současně u mě na návštěvě a nevědí o tom. Protože já jsem tady doma. Kdo z nich vůbec tuší, že chodí moravskou Šudomovou ulicí? Jsem ve svém srdci. Brejle mám sluneční. Komenského mámení.
 
 Mluvím česky, tedy jsem?
 
+  
+
 Gentrifikace je možná nevyhnutelným procesem všude v civilizovaném světě. Ale co to udělá s venkovskou mentalitou ostrovanů z Rixdorfu? Co kdybych se sem přestěhovala? Šem, domů. Še švými dětmi, čo už dávno učí na německých školách švé špolužačky češtinu. Přeštěhuju še šem. Do švé uliče, kde šu doma.
 
 Ve skutečnosti se zde rozličná sociální a národní etnika čím dál divočeji promíchávají se staršími (často sociálně vyloučenými) neuköllnskými usedlíky z šedesátých let až do současnosti. Taky bych se tu ráda promíchala. Že bych si v Schudomastrasse podala inzerát, ke každému ze vchodů do starých secesních domů? To je nápad. Hledám byt, su tady doma. Basta.
+
+  
 
 Co je mým domovem v Berlíně? Co je mým rájem srdce? Kdepak ho najdu?
 
@@ -112,6 +128,8 @@ Když jsem v májovém odpoledni usnula a otevřela oči u jezírka, spatřil
 A divadelník, vystudovaný filmař Artur? Ten s dětmi imigrantů natáčí už roky legrační hudební klipy, vymýšlí divadelní projekty, vše s neochvějnou vírou, že ne v dokonalosti, ale ve hře je lidskost, která spasí. Jeho bláznivé videoklipy s dětmi dojímají svou upřímností, hravostí a veselou nedokonalostí.
 
 Oba odlišné stárnoucí muže pojí společná vášeň: přirozená sociál­ní empatie k dětem přistěhovalců. Oba mají za sebou tolik bohulibé práce, že se jednoho dne jistojistě sejdou v nebi. Pan Wolff jako ponocný a Artur jako klaun. Oba si tam zahrají divoký rix­dorfský ping-pong, ale my u toho nebudeme.
+
+  
 
 Když jsem včera na kole došlapala zpátky do Friedrichshainu, řekl mi před čínským supermarketem můj známý bezdomovec: „Du weisst viel mehr, als ich.“
 
