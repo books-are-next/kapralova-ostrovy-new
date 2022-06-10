@@ -3,8 +3,6 @@ title: Ostrov ohraničené lidskosti
 contentType: prose
 ---
 
-  
-
 Stalo se to v lednu před několika lety. Ale někdy mi připadá, jako by to bylo včera, nebo spíš jako by se to stávalo pokaždé, když je v ulicích nezvyklé ticho, ve vzduchu zima a na chodnících lehký sněhový poprašek, nebo aspoň ranní jinovatka.
 
 Zajela jsem si na kole do Kreuzbergu na masáž nohou. Byl tehdy nečekaně teplý leden, jela jsem na masáž poprvé a nejspíš i naposledy.
@@ -12,6 +10,8 @@ Zajela jsem si na kole do Kreuzbergu na masáž nohou. Byl tehdy nečekaně tepl
 Bolelo to prudce, slast a hrůza v jednom. Mačkané body se spojily s orgány v těle, ostrov tlumené rozkoše. Masérka říkala, že jsem ležící seismograf a že prý zná už jen jednoho takového, podobně „probíjejícího“, jistého Francouze Ludwiga.
 
 Na tělech miluju chvění. Obecně. Ten sotva rozpoznatelný třas…
+
+  
 
 Cestou z masáže se mi však zatemnila mysl. Někdo mi na frekventované křižovatce Südstern ukradl zamčené kolo, za které jsem před měsícem dala týdenní výplatu.
 
@@ -38,6 +38,8 @@ No a tak jdu. Tiše a klidně odemknu dveře, vezmu železnou tyč, vracím se
 Opatrně vylézám z taxíku, neslyšně zavírám dveře.
 
 „Platit nemusíš, to je dar, pomoc bližnímu!“ zvolá Voloďa.
+
+  
 
 A to je vlastně vše. Vše z ostrova ohraničené lidskosti.
 

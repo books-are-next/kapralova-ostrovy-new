@@ -3,8 +3,6 @@ title: Ostrov ohraničené naděje
 contentType: prose
 ---
 
-  
-
 Jsou ostrovy promarněných šancí, ostrovy zapomnění, ostrovy tichomořské a pak ty, na kterých zůstáváme navždycky trosečníky, ať se hneme, kam se hneme.
 
 Kořeny takových ostrovů rostou přímo v nás a záleží jen na tom, čím je zabydlíme a jak se nám tam bude žít, uprostřed nekonečného moře dalších ztroskotanců.
@@ -24,6 +22,8 @@ V krajině ostrova jinak skutečně není nic. Ani v mých snech nebylo. Jen t
 My ostrovani míváme totiž pořád spoustu představ… Sníme o řekách a mořích, o překročení řek a moří a topíme se v nemožnosti něco takového uskutečnit.
 
 Jenže – já bych teď chtěla psát o něčem jiném: o ostrovech skutečných.
+
+  
 
 Jedním z takových ostrovů je dunajský Svatoondřejský ostrov. Leží dvacet kilometrů severně od Budapešti. Zleva i zprava ho obtéká sentimentálně vrtkavý, sametově prudký Dunaj. Jsou tu čtyři vesnice a pak jedna docela unikátní chatařská kolonie Menedék.
 
@@ -53,6 +53,8 @@ V sedmdesátých letech se kdosi z ostrova pokusil menedéckou osadu zapálit.
 
 Posledních třicet let je celkem v klidu, místní ostrované hrají s ostrovany na ostrově, s Menedéčany, fotbal.
 
+  
+
 Sedíme na terase chaty číslo sedm. Paní Elsa, tlumočnice z maďarštiny Eva a já. Elsa letos oslavila devadesát sedm let. Její rodina má v lese ještě pět dalších chat. Ona ve své chatičce žije od roku 1945. Na stole leží obrovská bezdrátová sluchátka. Elsa poslouchá od rána do noci operu. Celý život milovala operu. Po válce pracovala v knihtisku. Ještě před pár lety sem jezdívala z Budapešti stopem. Mávala na silnici číslo jedenáct, odhodlaná stopařka z Menedéku.
 
 Muž paní Elsy zemřel před třiceti lety. Mluvil třinácti jazyky, byl astrologem. Přežil Dachau. V chatě se vrší staré výtisky knih, zažloutlé dopisní obálky, nástěnný kalendář pro rok 1974 s japonským motivem.
@@ -72,6 +74,8 @@ Pak mlčíme.
 Ukazuje mi rozmáchlým gestem, kde stály před chatou pivoňky. Před dvaceti lety. „Úplný pivoňkový ráj,“ říká. Cestička k pivoňkám před chatou je zarostlá. Zarostlé jsou i životní cesty paní Elsy. Nejstarší, stočtyřletá Elsina sestra žije v Kanadě, bratr v Americe, tři sestry a rodiče zahynuli v Osvětimi.
 
 Verdiho opera vrcholí, vzduch je srpnově nehybný. Elsa se ožene po komárovi. Trefí ho a to ji rozesměje. Krev na vrásčitém, skoro stoletém předloktí. Sluchátka leží na stole, teď už se v nich začínají ozývat první tóny z _Madam Butterfly_.
+
+  
 
 Příští léto mi v Menedéku znovu ze své verandy ukáže, kde všude měla pivoňkový ráj. Bude jí devadesát osm.
 

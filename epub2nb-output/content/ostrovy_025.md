@@ -3,8 +3,6 @@ title: Ostrov ohraničené anekdoty
 contentType: prose
 ---
 
-  
-
 Dnes píšu jednadvacátou ostrovní povídku. A dnes je tomu přesně sto osmnáct let, co americký vědec Duncan MacDougall exaktně zvážil duši člověka. Vážila dvacet jedna gramů.
 
 Psal se rok 1901 a doktor MacDougall si ve své massachusettské laboratoři nechal vyrobit váhu, na kterou upevnil postel s umírajícím. Zvážil pacienta těšně před smrtí a minutu po exodu.
@@ -28,6 +26,8 @@ Znal o šest let starší lékař MacDougall hry a texty doktora Antona Pavlov
 Lékař MacDougall svůj objev zveřejnil teprve roku 1907. Vědecká obec se jeho výzkumu vysmála.
 
 Tou dobou byla duše A. P. Čechova tři roky na věčnosti.
+
+  
 
 Zneuznaný MacDougall svůj pokus o pár let zopakoval s patnácti psy. Ale ani tentokrát si příliš nepomohl. Psi totiž žádný úbytek na váze po exodu neměli.
 
@@ -54,6 +54,8 @@ Kdyby došly slzy.
 Kdyby duše zmizela.
 
 Nebo představa o ní.
+
+  
 
 Našla jsem konečně pana Sommerfelda z předminulé ostrovní povídky, stihla jsem dnes dokonce zajít na jeho pohřeb.
 

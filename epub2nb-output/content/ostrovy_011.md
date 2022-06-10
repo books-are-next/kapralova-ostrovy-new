@@ -3,11 +3,11 @@ title: Ostrov ohraničené poezie
 contentType: prose
 ---
 
-  
-
 Jednoho dne se po nás všech zapráší jako po flusu. To je neodvratný fakt, tak jako každá Wittgensteinova věta pronesená po krátkém odpoledním spánku. Věta fatálně směšná i nedělně sváteční, nahořklá jako žluč sardele.
 
 Jenže flus je německy fluss, řeka. A takový flus je přes svou efemérnost nesmrtelný, vlévá se do moře, do oceánu flusů, do věčnosti…
+
+  
 
 Za pár týdnů jedu navštívit tátu, uvařím mu silný vývar, prohodíme pár slov u krbu, zasmějeme se anekdotám, podám mu hole, které tolik nesnáší, anebo mu ty hole naopak nepodám, když je tolik nesnáší. Ještě nevím.
 
@@ -27,9 +27,13 @@ Jen smutní o štěstí.
 
 Jen žízniví o lahodném víně.
 
+  
+
 Autokratické vlády jsou však zatím spíš čínsky pragmatické, přestože i v nich se dá najít absurdní humor, dokonce blízký ďábelské anekdotě. Třeba když český fašista s migračním pozadím Okamura znevažuje romský tábor v Letech a zaštiťuje se přitom s nebetyčnou drzostí svými židovskými přáteli, kteří údajně sami spatřují rozdíl mezi Osvětimí a Lety, kde čeští četníci topili právě narozená cikánská nemluvňata.
 
 Ale já nechci mluvit o nevolnosti, volme si každý, koho chceme, jen nezapomínejme, že řeka teče do moře.
+
+  
 
 Včera jsem seděla v čekárně polikliniky na Grünbergerstrasse. Bolelo mě břicho z žaludeční virózy, došly mi léky na žlázu a k tomu jsem měla vši. Trojlístek, který si zaslouží trpělivé posezení v čekárně u německé doktorky Dashzeveg Packy, která se narodila v Ulánbátaru a jejíž bratr, taky doktor, žije v Košicích.
 
@@ -43,6 +47,8 @@ Nejspíš měl housera.
 
 Rusky mluvící maminka asijské tváře si psala domácí úkoly z němčiny, její osmileté děvčátko si hrálo s dřevěnými kostkami. Občas se tak do obrazu sedmihlavého mlčení ozval hlasitý pád kostek. Jinak nic.
 
+  
+
 Na zdi protějšího domu byl nasprejovaný nápis: _For how long is forever, Mia_? (Jak dlouho je navždy, Mio?)
 
 Ten vzkaz mě hluboce zasáhl, vyfotila jsem ho. Věta pro Miu byla nastříkána tři metry pod střechou. Písmo patrně raněného pavoučího muže nebo ženy. Kdo jiný by mohl tak kaskadérsky sprejovat dvacet metrů nad zemí?
@@ -52,6 +58,8 @@ Jak dlouho je navždy, Mio? A kdo je Mia? Jak dlouho je navždy?
 Navždy je překonání dočasnosti.
 
 Navždy je poezie, navždy je flus.
+
+  
 
 A navždy je taky ostrovní příběh o autobusovém řidiči Janovi z Brna a jeho pasažérech.
 
@@ -66,6 +74,8 @@ Jan postuje na facebooku drobné fragmenty ze života. Jeho posty jsou veselé j
 Jan je prorokem v říši autobusáků. Vážný i chlapecký, soustředěný i rozjívený. Je žitou básní autobusové linky číslo 75.
 
 Není to ovšem žádný Jarmuschův Paterson. I když i Jan napíše občas básničku, třeba tuhle:
+
+  
 
 _Navštívil jsem kamaráda  
 Plechového rozervaného  
@@ -88,6 +98,8 @@ Jeli jsme příměstskou obcí kolem dodávky s nápisem _Přeprava krve_, jeli
 Třeba rozhovor dvou starých žen. Ta první se chlubila, že prodává barák za miliony, a pak temně dodala, že to za rok zabalí. Ta druhá odpovídala té první s jistým podrážděním, že nemá ani na léky. Bezbranné byly stejně.
 
 Řidiči po šichtě si v jedoucím Janově autobusu vyprávěli temné anekdoty o havárkách. Ještě jiná žena pronesla pak za zastávkou Čtvery hony čisté haiku:
+
+  
 
 > „Zima je  
 > sem si to vyšlápla  

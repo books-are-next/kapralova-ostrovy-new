@@ -3,11 +3,11 @@ title: Ostrov ohraničeného porozumění
 contentType: prose
 ---
 
-  
-
 Červnové berlínské mžení. K hlavnímu nádraží Berlin-Hauptbahnhof přijíždí na dámském kole malinká asijská žena. Kolo je příliš velké na tak drobnou postavu, napadá mě.
 
 Pak se rozprší pořádně. Vidím, jak v prudkém dešti ta vietnamská nebo čínská žena z kola sesedá, jak se rozhlíží, jak kolo hekticky zamyká k zábradlí a jak jí dvakrát po sobě padá na zem kožená brašna přes rameno. Taky příliš velká.
+
+  
 
 Seděla jsem v patrové kavárně Vapiano a čekala už druhou hodinu na přítelkyni, co se vracela přes Berlín do Prahy. Ta asijská žena vešla do nádražní haly a pak i do kavárny, kde jsem pila třetí čaj…
 
@@ -47,7 +47,11 @@ Na nic z těch otázek jsem jí v tu chvíli nedokázala odpovědět a myslí
 
 „Někdy mám pocit, jako bych za poslední roky vůbec nežila, znáš to taky?“ řekla mi přítelkyně nepřítomně na peróně, když přijížděl vlak. Přikývla jsem. Mlčky jsme se objaly, ale nezamávaly si. Nebyla jsem si jistá, jestli se mezi námi něco nepokazilo. Byla jsem ráda, že je pryč, a styděla se za to.
 
+  
+
 Spěchala jsem rychle zpátky do nádražní haly, brala schody po dvou, vrazila jsem do skupiny španělských turistů. Na něco jsem se proti své vůli rozpomínala. Na něco, na co jsem chtěla definitivně zapomenout, urputně ve dne v noci, pak každý den, pak obden… A co mi teď ten prudký letní liják nemilosrdně připomněl.
+
+  
 
 V hale u hlavního vchodu jsem ty dva konečně znovu spatřila.
 
