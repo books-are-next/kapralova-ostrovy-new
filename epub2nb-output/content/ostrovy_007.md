@@ -3,17 +3,23 @@ title: Ostrov ohraničené samoty
 contentType: prose
 ---
 
+<section>
+
 Popravdě řečeno netuším, jak mám berlínský příběh o Vincentovi odvyprávět. Vím jen, že mu tohle vyprávění dlužím, nebo spíš že bych mu ho měla poslat, kdybych věděla kam.
 
 Vincenta jsem poprvé zahlédla začátkem září před deseti lety. Bylo to necelý měsíc po našem příjezdu do Berlína. V době, kdy jsem uměla německy jen pozdravit a kdy jsem každé ráno vodila plačící dcerku do německé školky a sama z ní odcházela skleslá, zmatená, zaskočená.
 
 A ta intimní pohroma, totiž chvilková ztráta řeči, zbystřila mé ostatní smysly natolik, že jsem si Vincenta vybrala k pozorování. Tak jako vyhlížíme v ulicích cizích měst výrazné lidské typy, tak jako na příliš dlouhém výletě vyhledáváme z únavy smyslů už jenom povědomá zákoutí a známé vůně.
 
-  
+</section>
+
+<section>
 
 Tak nějak jsem časem vyhlížela z balkonu Vincenta. Menšího muže kolem šedesátky v dokonale padnoucím obleku a baretu. Jeho figura se výrazně vymykala celému Friedrichshainu, tehdy ještě auten­ticky pankáčské čtvrti, kde bylo nevyřčenou uniformitou nosit asexuální tepláky, tetování, dredy a lahváče.
 
-  
+</section>
+
+<section>
 
 Vincentovo sako bylo většinou z tmavomodrého sametu. Nosíval k němu kalhoty s puky a bílou košili a místo baretu občas i klobouk. Dnes už by to bylo zaměnitelné, ale před deseti lety byl Vincent se svým starosvětsky elegantním, monarchisticky důstojným zevnějškem ve východním Berlíně extravagantně nápadný. Když se ochladilo, vyměnil sako za dlouhý šedý kabát a saténový šátek.
 
@@ -27,7 +33,9 @@ O Dušičkách jsme se nedopatřením potkali na místním hřbitově za zruše
 
 Dělali jsme, že se nevidíme.
 
-  
+</section>
+
+<section>
 
 Pak nastaly listopadové plískanice, advent a celé město se topilo v akvarijní přibližnosti. Učila jsem se německy, a šlo to ztuha.
 
@@ -37,13 +45,17 @@ Přitom jsem věděla, časem jsem _skutečně_ věděla – že Vincent je mu�
 
 A navíc, i to mi bylo den ode dne zřejmější, Vincent byl nejspíš argentinským univerzitním profesorem z Freie Universität a in­tuice mi našeptávala, že učí dokonce latinskoamerickou literaturu. Jeho jemné pohyby, plachý úsměv, bystré oči, nervózní chůze – Cortazárův bratranec, proč by ne.
 
-  
+</section>
+
+<section>
 
 Těsně před Vánoci, na prvním školkovém večírku, jsem konečně poznala i Vincentovu německou ženu Beu. Na rozdíl od Vincenta byla upovídaná, od pohledu praktická a mluvila dokonale anglicky.
 
 A co plachý Vincent nedokázal za celý podzim, to dokázala jeho žena Bea během jediného školkového večírku a po dvou deci vína. Totiž: naprosto zbourat můj pečlivě vyšívaný obraz Vincentova života.
 
-  
+</section>
+
+<section>
 
 Bea v rámci postgraduálu na Humboldtově univerzitě odjela studovat do Kolumbie folklor místních indiánů. Dostala se až do nedostupných částí hor s indiánskými vesnicemi Jugaka a Karwa. Kreslila tam, experimentovala s přírodními drogami a v osadě Jugaka, kde se jeden malý indiánek jmenoval křestním jménem Hitler – prý podle známého evropského hrdiny, potkala Vincenta.
 
@@ -79,7 +91,9 @@ Bea s ním dál komunikovala lámanou španělštinou, ale jeho pasivita ji spo
 
 Není hloupý, není němý, je jen – říkala mi tehdy na večírku – _úplně_ natvrdlý.
 
-  
+</section>
+
+<section>
 
 Narodili se jim dva snědí synové, dvojčata.
 
@@ -95,7 +109,9 @@ Vincent se dokázal jen podepsat.
 
 Bylo mu hodně přes padesát a byl to analfabet, co vychodil jen první třídu.
 
-  
+</section>
+
+<section>
 
 Měsíc po školkovém večírku jsem Vincenta tak jako každé ráno znovu vyhlížela z balkonu berlínského bytu. Moje tehdejší ztracenost se krystalicky zrcadlila v jeho ztracenosti.
 
@@ -105,7 +121,9 @@ Brzy jsem univerzitního indiána Vincenta – tentokrát už beze studu – p
 
 Vincent v baretu zůstal strnule sedět před obrazovkou. Jako by byl ze dřeva. Nebylo to smutné, spíš surreálné. Uvařila jsem nám kávu, mlčky mu ji podala, míchal hlasitě lžičkou v šálku, seděli jsme oba před animovaným krtečkem a smáli se plaše jako děti. Nepromluvili jsme.
 
-  
+</section>
+
+<section>
 
 Na jaře nás Bea poprvé a naposledy pozvala na návštěvu. Pak ale zjistila, že musí do ateliéru, a odešla z bytu, aniž bychom se potkaly. Dvojčata a Vincent už nás vyhlíželi, ale Vincent se proměnil. Na hlavě měl sice pořád ten flísový baret, ale jinak byl oblečený do obyčejných montérek a vypadal v brýlích a řídnoucích vlasech zase jinak: jako ptáček před odletem. V koutě u kamen vyřezával píšťalky.
 
@@ -133,7 +151,9 @@ Nejdivnější na tom celém je, že mě to vůbec nepřekvapilo.
 
 Vpíjeli jsme se všemi smysly do našich starých vzpomínek, na kterých jsme postávali tu a tam spolu, pak zase sami, pak s dobytkem a malými polonahými dětmi. A byli jsme tam oba, Vincent i já, v magickém realismu cortazárovského střihu.
 
-  
+</section>
+
+<section>
 
 Do léta jsem se s Beou už nepotkala a od podzimu už Vincent s Beou a chlapci nebydlel. Bea mu prý našla garsonku v Marzahnu. Vincent se od té doby procházel zřejmě ulicemi východoberlínského sídliště, v baretu a sametovém saku, univerzitní profesor z Jugaky: rok, pět let, deset… dokud…
 
@@ -156,3 +176,5 @@ Nevylučuju ale, že univerzitní indián, analfabet Vincent, vyřezává dnes v
 V míru a radosti vítej.
 
 Však jsi toho tady měl na jednoho snad až příliš.
+
+</section>

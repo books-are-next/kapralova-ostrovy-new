@@ -3,6 +3,8 @@ title: Ostrov ohraničeného ráje
 contentType: prose
 ---
 
+<section>
+
 Ráj srdce? Domov?
 
 Ten je přece k nalezení v Rixdorfu, říkám si pokaždé, když šlapu na kole zpátky do nudně turistického Friedrichshainu, kde devátým rokem bydlím.
@@ -21,11 +23,15 @@ Pan Nabeel z optiky v ulici Karla Marxe mi taky odstranil pomocí masti koncem
 
 Tolik o jižní bráně do Rixdorfu a panu Nabeelovi.
 
-  
+</section>
+
+<section>
 
 Když vstoupíte do Rixdorfu ze severovýchodní části Sluneční aleje směrem od městského parku, minete stánek s kebabem a nápisem: _Snový roh_. Ve stánku posedávají znavení muži slovanského, německého, tureckého a těžko identifikovatelného vzezření, kteří na ráj čekají ve stínu očistce. V ruce drží pivní lahev a kuřivo, na sobě tu a tam montérky, čas všednosti rytmicky odklepávají popelem z cigaret.
 
-  
+</section>
+
+<section>
 
 Němci mají pořekadlo, v němž místo španělská vesnice používají pro popis duševní zmatenosti pojem česká vesnice.
 
@@ -35,7 +41,9 @@ Na parapetech oken přízemních bytů početných tureckých a indických rodi
 
 Kolo si obvykle zamykám na náměstí Esperantistů, jdu a pečlivě nahlížím do všech dveří a domovních vrat své ulice, fotím si autisticky v ulici Šudomová všechna příjmení českého původu, a hle: Pavlovič v domě č. 32, Nowak v domě naproti, a hle, Maresch! Zazvonit si netroufám…
 
-  
+</section>
+
+<section>
 
 Rixdorf je možná ze všeho nejvíc snem; Sluneční alejí vstoupíte z reality do snu. Herzbergerovou ulicí míjíte kavárnu Třetí prostor, ve které si můžete na nástěnku napsat všechna svá přání a potřeby: _Chci sex s opičkou. Sháním keyboard. Hledám spolubydlícího za 300 eur. Nemáte prosím králíčka?_
 
@@ -49,7 +57,9 @@ Váleční imigranti z Balkánu a z Blízkého východu pracují spíš jako 
 
 Včera jsem v Richardově ulici potkala šíita. Vystoupil z bouráku se švýcarskou značkou a nesl si z prádelny vyžehlené košile.
 
-  
+</section>
+
+<section>
 
 Je tohle ráj? Je tohle máj? Máj napořád?
 
@@ -57,7 +67,9 @@ V posledních třech letech se do Neuköllnu stěhuje čím dál více mladých
 
 Posledních pět let bydleli ve čtyřpokojových měšťanských bytech za 600 eur měsíčně, a dnes makléři ty samé byty nabízejí za 1800 eur a víc. Co se stane s obyčejnými lidmi? Prchnou? Kam? Do zahrady J. A. Komenského? Co se stane s českým ostrovem?
 
-  
+</section>
+
+<section>
 
 Sinicův otec utekl z Albánie v roce 1991. S pěti dětmi, ženou, tchyní a strýcem. Otevřeli si přímo na Českém náměstí v Rixdorfu pekárnu s přívětivým nájmem a ušpiněnými tácky šťavnatých sladkostí.
 
@@ -67,7 +79,9 @@ Místní (hlavně váleční migranti) zkrátka vědí, jak v české vesnici p
 
 Tolik k folkloru Českého náměstí, kde – málem bych zapomněla – prodávají v České pizzerii pravou tureckou pizzu. A kde stojí nejkrásnější amatérské divadlo venkovského světa: Hotel Rixdorf.
 
-  
+</section>
+
+<section>
 
 Uprostřed Českého náměstí, kde má Sinica svou albánskou pekárnu, stojí pingpongový stůl.
 
@@ -77,7 +91,9 @@ Když jsem vešla na jaře do Českého Rixdorfu a zamyšleně kráčela sobotn
 
 Ping-pong hrála skvěle, dávala prasata i smeče, na lavičce seděl její vrásčitý tatínek neurčitého věku, vedle měl osm malých lahviček vodky. Blaženě se usmíval do jarního slunce. Zapinkaly jsme si, rozloučily se. „Bydlíte tady? Jste doma?“ ptám se zadýchaně. „A proč jako…“ zahučí oba a já vím, že hrát ping-pong beze slov je někdy víc než vést otravné výzkumnické hovory.
 
-  
+</section>
+
+<section>
 
 Dnes je zase sobota. Máj. Stojím v domovině na svém Českém náměstí. Starý turecký taťka hraje pod májkou na náměstí ping-pong s půvabnou dánskou studentkou biochemie. Na lavičce sedí kluci v pubertě a pokřikují, že Igor má malýho ptáka. Igor jezdí na koloběžce kolem dokola, přerostlý kníratý chlapec neněmeckého původu, občas zastaví u kamarádů a dá jim ránu. Pingpongový míček létá tam a zase zpátky. Odráží se od stolu v rytmu, v jakém mladá vystajlovaná číšnice kmitá na chodníku kolem zákazníků nenáviděné hypermoderní kavárny Snídaně budoucnosti. Turecká mamka pokřikuje z lavičky na taťku kanak-němčinou, že nezaplatil telefon.
 
@@ -85,13 +101,17 @@ Pofukuje mírný středoevropský větřík, ostrované z české vesnice se l�
 
 Mluvím česky, tedy jsem?
 
-  
+</section>
+
+<section>
 
 Gentrifikace je možná nevyhnutelným procesem všude v civilizovaném světě. Ale co to udělá s venkovskou mentalitou ostrovanů z Rixdorfu? Co kdybych se sem přestěhovala? Šem, domů. Še švými dětmi, čo už dávno učí na německých školách švé špolužačky češtinu. Přeštěhuju še šem. Do švé uliče, kde šu doma.
 
 Ve skutečnosti se zde rozličná sociální a národní etnika čím dál divočeji promíchávají se staršími (často sociálně vyloučenými) neuköllnskými usedlíky z šedesátých let až do současnosti. Taky bych se tu ráda promíchala. Že bych si v Schudomastrasse podala inzerát, ke každému ze vchodů do starých secesních domů? To je nápad. Hledám byt, su tady doma. Basta.
 
-  
+</section>
+
+<section>
 
 Co je mým domovem v Berlíně? Co je mým rájem srdce? Kdepak ho najdu?
 
@@ -129,7 +149,9 @@ A divadelník, vystudovaný filmař Artur? Ten s dětmi imigrantů natáčí u
 
 Oba odlišné stárnoucí muže pojí společná vášeň: přirozená sociál­ní empatie k dětem přistěhovalců. Oba mají za sebou tolik bohulibé práce, že se jednoho dne jistojistě sejdou v nebi. Pan Wolff jako ponocný a Artur jako klaun. Oba si tam zahrají divoký rix­dorfský ping-pong, ale my u toho nebudeme.
 
-  
+</section>
+
+<section>
 
 Když jsem včera na kole došlapala zpátky do Friedrichshainu, řekl mi před čínským supermarketem můj známý bezdomovec: „Du weisst viel mehr, als ich.“
 
@@ -148,3 +170,5 @@ A nakonec vás – krajané moji – přihlásím v té samé ulici Schudo­
 Jednou se probudíme a budeme v Českém Rixdorfu. Pak zase usneme a octneme se také tam. Převtělíme se v pingpongové míčky přímo ve falešném středu střední Evropy, v srdci mého milovaného mytického ptáka, na náměstí Böhmischerplatz v Rixdorfu.
 
 A budeme znovu doma.
+
+</section>

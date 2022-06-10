@@ -3,6 +3,8 @@ title: Ostrov ohraničené nekonečnosti
 contentType: prose
 ---
 
+<section>
+
 Napsala jsem dnes, že bych chtěla pracovat klidně i manuálně, moc ráda manuálně, protože se manuální práce nebojím, ba právě naopak. Napsala jsem tu německou žádost s klaunským nosem. S nosem, který mě tlačil rytmicky do spánků, jedna dva tři, gumička je mi příliš těsná, ale já se i tak směju, tlačí mě totiž ten smích z gumičky; ano, chtěla bych pracovat v berlínské Akademii umění, ovšem už ne nárazově jako umělkyně, ale jako ta, která v nevýslovné jistotě malého, nezáludného příjmu přenáší sem a tam obrazy pragmatičtějších a zdatnějších umělců.
 
 V montérkách a plátěné košili přenášet obrazy, s cigárem v puse, to by se mi líbilo. Jedině prosím – napsala jsem – jedině mi dovolte, abych místo klaunského nosu (neboť tuhle kariéru jsem zahodila, aniž bych ji vůbec započala), abych místo nosu měla na rtech rudou rtěnku. Tohle jsem napsala a pak zase jedním kliknutím smazala.
@@ -23,7 +25,9 @@ Katastrofa není ovládat slova a neovládat čísla.
 
 Katastrofa je, že nekonečnost je iluzí, přestože jsou tací, kteří se k ní dokážou propočítat.
 
-  
+</section>
+
+<section>
 
 Ale proč to všechno píšu, s klaunským nosem, co mě tlačí, až mi z toho cuká v hlavě? Protože chci vyprávět docela jiný příběh, arizonský, který se mi vryl do paměti, jako by to byl sinus a cosinus, alfa a omega, ležatá osmička všeho našeho pachtění.
 
@@ -35,7 +39,9 @@ María nebyla podobná temperamentní matce ani snědému otci. Měla zelené ko
 
 María v takové chvíli jen krčila rameny, přivírala oči a tím nejměkčím kočičím krokem, jaký jsem kdy u živé bytosti viděla, odcházela hrdě do domu.
 
-  
+</section>
+
+<section>
 
 Kousek od čtvrti, kde jsme se Sarazziovými bydleli, vlastně už v začínající poušti za městem, žily v malém domku dvě vzrůstem malinké a kulaté neprovdané sestry, extravagantní podivínky a členky stejného baptistického společenství jako Sarazziovi. Mladší sestra trpěla prý zvláštním osvícením, kterému pokladní v místním super­marketu říkala _ťuk ťuk na hlavu_ a doprovázela to významným koulením očima. Starší ze sester byla zase nahluchlá žena plná prudkých, špatně koordinovaných pohybů.
 
@@ -45,7 +51,9 @@ Obě se zkrátka staly vítanou a nečekanou atrakcí. Byly údajně tak nadan�
 
 Byly nepřehlédnutelné, svérázné a možná geniální… Rozhodně na místní poměry, což znamenalo okolí baptistického společenství a místní supermarket.
 
-  
+</section>
+
+<section>
 
 Nikoho proto nepřekvapilo, když se John Sarazzio rozhodl, že jeho milovaná nejmladší dcera María bude k sestrám chodit na doučování.
 
@@ -61,7 +69,9 @@ Pak vystoupila před domem sester a zamávaly jsme si.
 
 Za oknem se pohnul nehybný, těžký závěs.
 
-  
+</section>
+
+<section>
 
 María měla už přes rok chlapce a plánovala s ním odjet do Evropy a pak do Nepálu, zkrátka co nejdál, co nejdál od baptistického sboru a Tucsonu.
 
@@ -83,7 +93,9 @@ Za dvacet minut jsem spatřila dům, z jehož oken v přízemí šlehaly plame
 
 Vrtulník převezl Maríu do nemocnice, stejně jako mladší sestru. Starší ze sester byla na místě mrtvá. María přežila s lehkými popáleninami. Psychický stav mladší sestry se nenávratně zhoršil. Odstěhovala se natrvalo do baptistického ústavu, pro který dřív se sestrou žehlila ložní prádlo.
 
-  
+</section>
+
+<section>
 
 Ráda bych teď napsala, že v plamenech hořícího domu, v okamžiku smrti starší ze sester Bondyových, spatřila čtrnáctiletá María Boha.
 
@@ -97,7 +109,9 @@ María u sester často omdlívala horkem a žízní, a přesto se nikdy neodv
 
 María se v matematice skutečně zlepšila.
 
-  
+</section>
+
+<section>
 
 Teprve když se po dvou týdnech v nemocnici vrátila domů, dovy­právěla mi konečně celý příběh požáru.
 
@@ -107,7 +121,9 @@ Pak všeho nechala a začala se nesmyslně modlit.
 
 Když to María spatřila, vysoukala se z posledních sil z místnosti a zavolala hasiče. Jenže ani ona neví, co se stalo pak. Nejspíš omdlela vyčerpáním. Probrala se až ve vrtulníku cestou do nemocnice.
 
-  
+</section>
+
+<section>
 
 Co dělá duchapřítomná María dnes, po dvaceti letech, netuším. Už jsem ji nikdy nepotkala. Když ale v zimním Berlíně myslím na algebru, vybavím si ty dvě svérázné ženy, praštěné sestry, co počítaly, počítaly a jednoho dne se přepočítaly. Jejich rozpálený kuchyňský hořák se vztyčil jako maják, jako hořící výhružka, jako naděje i úleva z pomíjivosti. A začal svítit jasným plamenem.
 
@@ -117,7 +133,9 @@ Ze sester se v Tucsonu prý stala legenda.
 
 María možná žije v Nepálu a cvičí tam jógu, kdo ví…
 
-  
+</section>
+
+<section>
 
 V tuto chvíli se právě snažím vysvětlit, kolik je 57 999 minus 32 708 a jak to lze rozložit na prvočísla.
 
@@ -129,7 +147,9 @@ Ten učitel má jméno z tisíce a jedné noci a společně s dcerou při po
 
 Sedím opodál a taky se vznáším.
 
-  
+</section>
+
+<section>
 
 Myslela jsem si tehdy v Arizoně, než jsem potkala ty dvě ženy a Maríu, že slovo je mocnější než číslo. Ale to jsem se asi přepočítala.
 
@@ -138,3 +158,5 @@ Katastrofa není ovládat slova a neovládat čísla.
 Katastrofa je, že nekonečnost je iluzí, přestože jsou tací, kteří se k ní dokážou s geniální přesností propočítat, a stejně –
 
 A stejně je jim to k ničemu.
+
+</section>

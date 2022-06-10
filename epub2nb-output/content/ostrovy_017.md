@@ -3,6 +3,8 @@ title: Ostrov ohraničených možností
 contentType: prose
 ---
 
+<section>
+
 Počátkem března se pětačtyřicetiletá tanečnice Evelína probudila ve svém malém bytě v Neuköllnu s podivně vědoucím úsměvem na tváři.
 
 „Som vyvolená,“ řekla slovensky ve snu někomu, komu dokonale věřila.
@@ -11,7 +13,9 @@ Počátkem března se pětačtyřicetiletá tanečnice Evelína probudila ve sv�
 
 „Iba mi závidíš!“ vykřikla Evelína s překvapivou prudkostí a vzbu­dila se.
 
-  
+</section>
+
+<section>
 
 Evelína Mesárošová se narodila do komunisticko-katolické rodiny v československých Košicích. Snad proto odjakživa věřila, že člověk musí být především laskavý, protože peklo skutečně existuje.
 
@@ -21,7 +25,9 @@ Ale i z Budapešti zmizela už dávno.
 
 Posledních dvacet let žije v Berlíně.
 
-  
+</section>
+
+<section>
 
 Do Berlína přišla Evelína jako nadějná vítězka mezinárodního konkurzu a stala se součástí ambiciózního tělesa francouzského choreografa Pierra Avazara. Jenže se na třetím evropském turné nešťastně zapletla s jeho milencem.
 
@@ -39,7 +45,9 @@ Možná jsem umělkyní jiného druhu…, říkala si pak v noci nad hrnkem stu
 
 Na dvoře pofukoval chladný únorový vítr a mezi popelnicemi pobíhali hladoví potkani.
 
-  
+</section>
+
+<section>
 
 Evelína se přihlásila na úřad práce a začala pobírat podporu. Tak to šlo roky. Zažila několik pomíjivých milostných aférek a tuctovou noční práci na baru, která snad ani nestojí za zmínku.
 
@@ -53,18 +61,24 @@ Přehoupla se přes čtyřicítku, přibrala dalších pět kilo. Žila dál na 
 
 Roky Evelíně plynuly a Evelína plynula rokům.
 
-  
+</section>
+
+<section>
 
 Někdy tou dobou začala psát básně; a byla to pro ni úplně jiná, a přesto logická návaznost. Psávala jednoduché básně ve slovenštině o řeči a o těle.
 
-  
+</section>
+
+<section>
 
 _Sú anjeli skutočne neistí?  
 Majú len ústa a dlane a oči,  
 alebo aj pohlavie,  
 ktorým nás za tmy pohladia?_
 
-  
+</section>
+
+<section>
 
 Wittgenstein ji okouzlil a postupně zcela pohltil. Anebo ona jeho, jak si občas říkávala, když usínala, hrnek studeného kafe vedle postele, na dvoře studený vítr a hladoví potkani…
 
@@ -72,7 +86,9 @@ Variace na Wittgensteinovu větu _O čem se nedá mluvit, o tom se musí mlče
 
 „O čom sa nedá hovoriť, o tom sa musí tancovať,“ opakovala soustředěně do ticha svého pokoje, propisku mezi stisknutými rty…
 
-  
+</section>
+
+<section>
 
 Zažila několik dalších milostných aférek.
 
@@ -82,18 +98,24 @@ Stala se sociálně ještě citlivější, pokud je to vůbec možné. Jezdila p
 
 Občas ji napadl nějaký podivuhodný obraz, který byl skutečnou básní:
 
-  
+</section>
+
+<section>
 
 _Môj život je bystrý ako riečka,  
 ktorá netečie._
 
-  
+</section>
+
+<section>
 
 Ale většinu času, přiznejme si, nenapadalo Evelínu vůbec nic. Oddávala se zenově plynutí času a občas si to mimojazykové plynutí obřadně zaznamenávala v jakémsi polohalucinačním stavu na papírky a pak s nimi tancovala po kuchyni s výhledem do dvora. Jednou za měsíc zašla na úřad práce, dvakrát za rok na podpůrné sezení umělců na volné noze či nějaký nesmyslný koučink, občas ke svému psychologovi.
 
 A tam jí to taky při jednom adventním sezení konečně došlo! Rodinu nemá. Všechno obětovala umění. Ano. Je umělkyní. A jako umělkyně se svému umění oddá naplno.
 
-  
+</section>
+
+<section>
 
 V lednu napsala text tanečního projektu _Wittgensteinovy věty v pohybu_. Vyplnila několik žádostí o grant. Objevila, že svůj profesní životopis může zavěsit na Wikipedii. To ji udivilo a poněkud zrelativizovalo obdiv k tanečníkům visícím na webu už celé roky.
 
@@ -105,13 +127,17 @@ V noci dopsala svůj profesní životopis a pak, po krátké úvaze, připsala
 
 Všechno by bylo v pořádku. Všechno. Až na to, že…
 
-  
+</section>
+
+<section>
 
 Peníze na _Wittgensteinovy věty v pohybu_ nesehnala. Zato v poště objevila mail od rakouského filmaře Paula Čejky, bývalého československého emigranta z Vídně, mapujícího současný evropský tanec. Psal, že ho jako Vídeňáka zaujala její upřímná vášeň pro Wittgensteina. _Nejvíc mě však potěšilo, že jste se setkala osobně s Pinou Bausch. Vy jste, vážená paní Mesárošová, pro můj film přímo fantastická_. Svůj jinak věcný mail zakončil větou, že vše, co kdy v životě dokázal, si Evelína může vygooglovat. A k tomu nezávazný smajlík. Evelína si muže vygooglovala a zjistila, že tento o pár let mladší spolužák Miloše Formana natočil přes dvacet hraných a dokumentárních filmů. To by šlo…
 
 Svět se rozzářil a na stromech se objevily první jarní pupeny.
 
-  
+</section>
+
+<section>
 
 V den prvních jarních pupenů přijel filmař Paul Čejka z Vídně do Berlína. Sraz si dali v podvečer v berlínské kavárně Pasternak. Evelína cítila, že svůj život po letech mátožné pasivity opět pevně uchopila do svých rukou.
 
@@ -163,7 +189,9 @@ Z toalety si osmdesátiletý filmař zavolal taxíka, a protože bolest zad by
 
 O minutu později skučel bolestivě v taxíku a skučel i celý večer otočený ke ztichlé zdi svého hotelového pokoje Motel One. Ke zdi hotelového pokojíku pro dva, který dnes v noci očekával vzácnou návštěvu, bývalou tanečnici od Piny Bausch.
 
-  
+</section>
+
+<section>
 
 Evelína čekala hodinu, dvě, a pak jí to konečně došlo – Paul Čejka sprostě utekl.
 
@@ -183,7 +211,9 @@ Kluk se roztančil legračními krůčky prvního tanečníka Piny Bausch.
 
 „Však já sem utlačovanej! Se na mě podívej, sem utlačovanej, asi jako ty seš baletka,“ odpověděl duchaplně feťáček.
 
-  
+</section>
+
+<section>
 
 Přijelo metro a Evelína do něj v rozrušení nastoupila bez lístku. Neuplynula ani vteřina a stál před ní revizor s prázdným kozlím pohledem.
 
@@ -203,7 +233,9 @@ Evelína se nadechla, vytřeštila oči a vyslovila přepečlivě, jen trochu c
 
 Evelína mezitím vyběhla ven.
 
-  
+</section>
+
+<section>
 
 O pár minut později vpadla bez duše, dlaně sevřené v pěst, do alko­holem rozjívené společnosti Uty. Vystajlovaným půdním bytem pobíhali sem a tam afričtí umělci a tanečníci středního věku, ale nikdo nevypadal, že by se znal osobně s Pinou.
 
@@ -225,7 +257,9 @@ Setmělo se.
 
 Afričtí tanečníci tančili kolem máslovitých produkčních a asis­tentek producentů a milenek producentů a milenců manažerek a Evelína v ušáku pila dál lunaticky whisky a slastně usínala, zatímco se padesátiletá Uta divoce líbala s nadějným etiopským filmovým režisérem, jehož snímek uvede na festivalu afrických krátkometrážních filmů ve Stuttgartu.
 
-  
+</section>
+
+<section>
 
 Evelíně zazvonil telefon. Paul Čejka.
 
@@ -247,7 +281,9 @@ Vypnula telefon a bez rozloučení se vytratila z večírku domů.
 
 Té noci usnula tvrdým spánkem ženy, které došlo, že život je možná ještě o něco komplikovanější, než byl před třiceti lety v Košicích, které v Berlíně beztak neexistují. Komplikovanější, ale vlastně i skutečnější.
 
-  
+</section>
+
+<section>
 
 A právě v ten okamžik se nad ní opět sklonil neznámý z minulého snu. A řekl jí opatrně: „Veď som ti hovoril, že nie si vyvolená.“
 
@@ -255,7 +291,9 @@ A ona, Evelína, se na něj povzbudivě usmála, uvolnila v pěst sevřenou dl
 
 A pak spala a spala, zatímco jí Paul Čejka psal nekonečně dlouhý mail z Motelu One, že její projekt je opravdu výjimečný a že s ní, Evelínou, má megalomanské plány: film, DVD platforma, aplikace do iPhonů, setkání s význačnou holandskou producentkou, s níž měl počátkem sedmdesátých let poměr… A v bolestné modlitbě starého muže s houserem myslel s pohnutím na Evelinin úsměv, oči a obří prsa.
 
-  
+</section>
+
+<section>
 
 A Evelína, baculatá a jen trošičku prolhaná Evelína? Ta zatím spala a spala. Hrnek studeného kafe od rána na nočním stolku.
 
@@ -264,3 +302,5 @@ A zdálo se jí, že má syna, docela malinkého portugalského syna v bílé 
 A pak ten Ludwiček zlehounka vstane, rozpaží andělsky paže, stoupne si na špičky a plynule začne vířit pokojem. Nejprve pomalu, pak čím dál prudčeji.
 
 A je to pohyb tak mocný, tak mocný a soustředěný, že by se za něj nemusela stydět snad ani samotná Pina Bausch.
+
+</section>

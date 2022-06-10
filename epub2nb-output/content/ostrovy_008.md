@@ -3,6 +3,8 @@ title: Ostrov ohraničené spásy
 contentType: prose
 ---
 
+<section>
+
 Snad to nebude znít moc sentimentálně. Ale po deseti letech koktavě náročného a někdy i překvapivě dobrodružného života v Berlíně vnímám konečně naplno ten osvobozující stav: zůstanu tu už napořád cizinkou v ostrovním světě, jehož břehy omývá vzdálené, v podstatě nudné Německo.
 
 Berlín je mi nekonečným prostorem tak blízký a zimním chladem beze sněhu tak vzdálený, že se ve mně permanentně sváří pocity naprostého zhnusení a skoro mateřské, zaslepené lásky. Berlín je nemocný melancholií falešného středu.
@@ -35,7 +37,9 @@ Tohle vyprávění, koktavě roztřesené vlakové vyprávění, píšu v dynam
 
 A jak za okny vlaku ubíhá krajina, propadám se znovu do polobdělého stavu.
 
-  
+</section>
+
+<section>
 
 Zimní obraz z dětství. Jeden z nejsilnějších. Je mi osm a jdu se svým jedenáctiletým bratrem lesem z naší chaty do vesnice Praskolesy. Je polovina osmdesátých let.
 
@@ -49,7 +53,9 @@ Praskolesy jsou tak malé, že v nich není ani obchod s potravinami ani koste
 
 Jedinou skrytější atrakcí Praskoles roku 1983 je už jen rozpadající se chalupa, které se vyhýbáme a která nás přitahuje, protože v ní žije bláznivá, neprovdaná paní Šetlíková. Žije v jedné místnosti se třiceti kočkami, s kozou a drůbeží. Nemá elektřinu, podobně jako my. Tahle skutečnost nás zdánlivě spojuje. Některá zvířata spí s paní Šetlíkovou v posteli, šušká se ve vsi, jiná mají svoje pelíšky na okenním parapetu.
 
-  
+</section>
+
+<section>
 
 Nepamatuju se, proč jsme tehdy do téhle vesničky šli. Za Šetlíkovou stěží.
 
@@ -72,3 +78,5 @@ Zakejháme srozumitelným jazykem jako ty husy paní Šetlíkové. Na ledové pl
 K životu jsme totiž přitlučeni hřebíky slov. Vím to od té chvíle, kdy vysvobozené husy promluvily lidskou řečí. Proto si vyprávíme příběhy, i když jsou to kolikrát jen fragmenty podobné tajícím rampouchům. Ohmatáváme naslepo prostor vět, protože se potřebujeme dotýkat rameny, abychom nezmrzli. Až se nečekaně ochladí.
 
 Vyprávíme si, abychom to ucítili. Abychom s přirozenou vznešeností hus prostupovali ze světla do tmy a naopak. Abychom se nebáli tmy a nezavírali oči před oslnivým světlem.
+
+</section>

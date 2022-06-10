@@ -3,6 +3,8 @@ title: Ostrov ohraničeného vidění
 contentType: prose
 ---
 
+<section>
+
 Skláněla jsem se nad umělohmotným malíčkem v tichém vytržení. Ležel na mokré dlažbě vedle tribuny, ze které Hitler kynul davům, jen pár metrů od Zlatého sálu, kam měl vkročit, ale nikdy nevkročil.
 
 Pustým norimberským areálem proletělo hejno hus. Slabomyslný muž pouštěl po široké asfaltové cestě autíčko na ovládání. Pravicí pohyboval nahoru a dolů, žádná neonacistická záludnost v tom však nebyla. Jen okouzlení ovladačem v liduprázdném prostoru.
@@ -19,7 +21,9 @@ Totiž – Josef si mě najal, protože netušil, jak dětská byla tehdy moje 
 
 Josef byl spokojený a i já jsem byla ráda. Už jsem to navíc dávno nebyla já. Hrála jsem s amatérskou vášní svou roli tlumočnice. A jediné, co mě spojovalo s reálným světem, byl umělohmotný malíček na mokrém asfaltu.
 
-  
+</section>
+
+<section>
 
 A tohle _má_ být přece příběh malíčku! Uříznutého umělohmotného malíčku, který patřil všem a nikomu a který bezmocně (žádná instalace to nebyla!) čekal na svůj filmový výstup na vlhké dlažbě. Malíčku, jehož monumentalita byla natolik zanedbatelná, že si ho po celou dobu natáčení nikdo nevšiml. Skutečně jako by nebyl. Rozhodně nebyl ve srovnání s velikostí Zeppelintribuny, s totalitární filmovou technikou, s rozkazy nenasytného režiséra, který měl na každém malíčku asistentku, milenku, studentku, nejčastěji tuhle trojkombinaci.
 
@@ -48,3 +52,5 @@ Malíček zůstal nevzrušeně ležet na svém místě.
 A pokud ho nezvedl mentálně retardovaný muž či misionářský trumpetista, leží tam malíček dodnes.
 
 Nespatřený.
+
+</section>

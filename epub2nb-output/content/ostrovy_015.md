@@ -3,13 +3,17 @@ title: Ostrov ohraničené sklíčenosti
 contentType: prose
 ---
 
+<section>
+
 Kuba sedí v sídlištní herně v Tbilisi a píše mi mail, tentokrát o dvou prostitutkách z Uzbekistánu. Dopis je jako obyčejně plný anekdot a zoufalství. Proč žiješ v Gruzii, Jakoubku? napadá mě tu a tam. „Ty ženský už jsou tak agresivní a na tak nízké ceně, že jsem se ne­udržel a zeptal se jich, jestli jsou normální; jdu pryč, než dostanu po mordě… V Brně jsem kdysi bydlel na ulici Uzbecká. Víš. Občas tady bývám vydaný napospas prudkému slunci, které víc spaluje, než hladí. Nevím, k čemu je to dobrý. Vlastně mě ty ženský už pěknou chvíli znásilňují.“
 
 To já jsem byla znásilněná, když mi bylo osmnáct, odpovím Kubovi do ticha kuchyně.
 
 Jenže… Když začnu touhle silnou větou, možná je načase hned zase skončit, protože pak už mě v příběhu vůbec nic neochrání. A mě tehdy přece jen něco ochránilo: mexický náramek, který mi dala Hanna, Paulova žena. A pak želva, co se sunula směrem k nám, aby přivolala další děj.
 
-  
+</section>
+
+<section>
 
 Arizona byla v mých dětských představách prvotním rájem, stejně jako bylo mé dětství koncem osmdesátých let v Brně předpeklím dekadentního socialismu.
 
@@ -17,7 +21,9 @@ V Arizoně žili příbuzní, které mohla babička s dědečkem jednou ročn�
 
 Seděli jsme nad diáky ve velké vstupní hale a dojímali se nad krásami domů naší vzdálené americké rodiny. Obdivovali jsme jejich úspěšný kapitalistický život: bazény, auta, interiéry domů, rozplývali se nad zapadajícím sluncem velikosti pomerančů, na které jsme tehdy stávali fronty a které nám prodával vyhlášený zelinář, co se nechal oslovovat titulem doktor.
 
-  
+</section>
+
+<section>
 
 V Arizoně žila taky Hanna, dcera našich stařičkých amerických příbuzných. Tatínkova nejoblíbenější sestřenice z raného dětství, v dospělosti talentovaná malířka, která se kolem třicítky k zármutku svých rodičů rozhodla pro jinou životní cestu. Po několika výstavách v Melbourne se seznámila s pilotem. S malováním sekla ze dne na den. Stala se akrobatickou letkyní, a koncem sedmdesátých let dokonce vyhrála v ženské kategorii létání. Pak se ale zase přihodilo něco, a nikdo přesně nevěděl co. Hanna zmizela z Austrálie do Arizony. S utkvělou představou, že si tam – na Divokém západě – založí turistický ranč. To už jí táhlo na čtyřicet.
 
@@ -27,7 +33,9 @@ Do rodiny Hannina úspěšného otce Paul nezapadl. Do Hanniny náruče však an
 
 Ke koňům jsem vztah neměla, k dobrodružné povaze Hanny ano. To mi bylo jasné už před odletem. Bylo mi osmnáct a s Hannou, které bylo něco přes padesát, jsem si vyměňovala staré pohlednice s obrázky Brna. Hanna mi posílala pohledy arizonských koňů. Po roce kostrbatého dopisování mě pozvala na ranč. _Come here, nebudeš litovat_, napsala mi a poslala letenku.
 
-  
+</section>
+
+<section>
 
 Necelý týden po maturitě jsem poprvé v životě seděla v letadle. Praha–Helsinky–New York–Detroit–Tucson. Po osmnáctihodinovém letu s blouděním nekonečnými chodbami letištních hal si ke mně v letadle Detroit–Tucson přisedla trpaslice; zprava pak obézní jeptiška.
 
@@ -47,11 +55,15 @@ Pak jsme odbočili na prašnou cestu a Hanna najednou zabrzdila tak prudce, až
 
 Dál jsme jely mlčky. Pak jsem nejspíš vyčerpáním usnula.
 
-  
+</section>
+
+<section>
 
 Už ani nevím, jak jsem se dopravila do půdního pokoje, který mi Hanna v domě připravila. Každopádně, když jsme pak navečer seděly a v kuchyni s výhledem do zahrady jedly pun-cakes, byla Hanna už zase trochu nesvá, protože Paul právě v Hollywoodu proskakoval hořícím keřem. A tak otevřela víno. Nikdy předtím jsem víno nepila, nikdy ne celou lahev a jen ve dvou. Cítila jsem se mimořádně. Vůbec mi s Hannou bylo dobře, jako by nás nedělilo víc než třicet let, ale nanejvýš pár měsíců. „Jsem tvoje starší sestřenice, to ti je snad jasný,“ dloubla mě zlehka do žeber. „Teta zní, jako bych byla stařena.“
 
-  
+</section>
+
+<section>
 
 Smály jsme se, večer se nachýlil a pak se nám jazyky čím dál víc motaly. Hanna mi ukázala za domem celou svou zvířecí rodinu: koně mě příliš nezajímali, kozy a krávy o trochu víc, ale těch několik obrazů, které visely ve vstupní hale, těch několik pláten mě naplnilo němým úžasem. Byly to Hanniny abstrakce hořících květin, hlavně petúnií a kaktusů. Hanna mi vyprávěla o raném dětství v Brně a o Austrálii, a pak konečně, kolem půlnoci, zavolal Paul.
 
@@ -69,7 +81,9 @@ Než jsme šly spát, darovala mi Hanna v krabičce zabalený dárek. Tyrkysov�
 
 Tu noc jsem se převalovala až do rána a nemohla usnout.
 
-  
+</section>
+
+<section>
 
 Když se druhý den vrátil Paul z natáčení, padli si s Hannou do náručí a všechno bylo, jako když jsem přiletěla do Tucsonu. Zubili se na sebe, kousali se jako dva puberťáci, kouřili jednu od druhé a hned si otevřeli lahev whisky.
 
@@ -81,7 +95,9 @@ Navečer upekl krocana.
 
 Letní dny pak ubíhaly jeden jako druhý: byly dlouhé, horké a nekonečné.
 
-  
+</section>
+
+<section>
 
 Po týdnu mi připadalo, jako bych v Arizoně žila už roky. Chodila jsem s Hannou hned po snídani jezdit, Paul odjížděl na pastvu ke kravám a pak obstarat turistický ranč.
 
@@ -93,7 +109,9 @@ Ten den s Hannou byl krásný. Zpívaly jsme v dodávce písničky Ivana Mlád
 
 Jedly jsme sladký moučník a Pablo mi kladl na srdce, že když spadnu z koně, což se tu a tam stává, musím okamžitě, okamžitě znovu nasednout, neohlížet se, nebát se a jet dál. Proč bych měla spadnout?
 
-  
+</section>
+
+<section>
 
 Den nato bylo pondělí.
 
@@ -165,7 +183,9 @@ Auto už bylo u nás. Zastavilo, řidič byl indián Pablo z vedlejšího ran�
 
 Paul cukl nepřítomně ramenem, zapálil si cigaretu a podíval se směrem k horám. Vypadal v tu chvíli jako stařec nad hrobem.
 
-  
+</section>
+
+<section>
 
 Když mě indián o pár minut později přivezl na ranč, byla už Hanna doma. A jako by čekala, že se něco stane, stála tam, u okna do zahrady, a mlčky mě objala. Mlčky mě zavedla do koupelny a mlčky mi ošetřila záda.
 
@@ -199,13 +219,17 @@ Taky jsem chtěla zavřít oči, ale nešlo to.
 
 A pak jsem to zpozorovala. Prosklenou stěnou domu. Tu podivnost. V zahradě se pohnul menší balvan. Pohnul se doleva, pak zase doprava, tam a zase zpět. To mě rozptýlilo a taky dost vylekalo. Copak už mně úplně hrabe? Chodí tady snad po zahradě kameny? říkala jsem si a uhnula pohledem jinam, na Hannin obraz hořících květin v rohu pokoje… Když jsem se do zahrady podívala znovu, došlo mi, že to není fata morgána. Ne. Byla to obrovská želva. Sunula se pomalu směrem k jezírku a petúniím. K zářivě žlutooranžovým petúniím, které Hanna dokázala tak nádherně, s citem a něhou namalovat.
 
-  
+</section>
+
+<section>
 
 Druhý den ráno jsem konečně odletěla. Možná jsme s Hannou mluvily o počasí, možná o českých příbuzných, stesku, nejspíš o všem a o ničem. Měla jsem na ruce ten náramek a myslím, že jsem se s Paulem rozloučila formálně letmým polibkem a on mi popřál hezký let.
 
 Postávali na tucsonském letišti už zase jako strýček s tetičkou, drželi se kolem pasu, doširoka se usmívali a mávali, fotogenický stárnoucí pár z Arizony, přijeď brzo, zavolala Hanna, přijedu, odpověděla jsem a polkla naposledy suchý arizonský vzduch.
 
-  
+</section>
+
+<section>
 
 Místo mexické trpaslice a jeptišky jsem letěla do Detroitu s rodinou íránského obchodníka s vínem. Z New Yorku až do Prahy pak se starým mužem z Tel Avivu, fyzikem na penzi. Povídali jsme si o mracích, byl to skutečně starý muž, daleko starší než Paul – narozený v Petersburgu krátce po Říjnové revoluci. Jeho společnost mi byla příjemná. Vyprávěla jsem mu o Brodském, jehož básně jsem četla v Arizoně.
 
@@ -213,7 +237,9 @@ Místo mexické trpaslice a jeptišky jsem letěla do Detroitu s rodinou írá
 
 Ano. Byla jsem v letadle doma.
 
-  
+</section>
+
+<section>
 
 A brzy nato jsem přistála zpátky v Evropě. Uvítalo mě babí léto a absence barev na dosud neopravených domech z osmdesátých let. A taky absence želv na silnicích. Náramek jsem si sundala z ruky a schovala do šuplíku, nakonec jsem ho při stěhování vyhodila.
 
@@ -223,31 +249,41 @@ To, co bylo uvnitř diáků, jsem si nechávala pro sebe.
 
 Zpomalila jsem se, narodily se mi děti.
 
-  
+</section>
+
+<section>
 
 Vlastně jsem na Arizonu úplně zapomněla, nebo spíš po čase jsem ty tři letní týdny vymazala jako něco, co do mého života snad ani nikdy nepatřilo.
 
 Teprve nedávno, na jednom berlínském večírku, se mi to všechno vrátilo. Kdosi začal vyprávět o arizonském horku. A já jsem v lehké opilosti začala bez kontextu vyprávět o Hanně a o Paulovi. Jenže ve chvíli, kdy jsem se viděla ležet v pouštních horách s odřeným nosem, v okamžiku, kdy se nade mnou skláněl Paul s rozepnutým puntem, jsem znovu ztratila řeč. Bylo to zvláštní. Nebolelo to, ta vzpomínka, jen jsem najednou kromě želvy u cesty nebyla schopna vybavit si další obraz, a pokud ano, pak mě nenapadlo jediné slovo, které bych k tomu obrazu mohla přiřadit…
 
-  
+</section>
+
+<section>
 
 Místo toho mi naskočil před očima dávný, zasutý obraz z Brna… S kamarádkou jsme chodily do vyhlášeného pěveckého sboru. Sbormistrem byl bělovlasý dirigent, co po nás pravidelně házel tužky a křičel, že pokud se nenaučíme noty, skončíme jako ti debilní cikáni, co zpívají pořád dokola pořád tu stejnou písničku.
 
 Po jedné takové zkoušce jsme šly zdrceně domů a najednou vidíme na ulici mužské tělo pod bílou plachtou. Kolem plachty postává hlouček lidí, o kus dál stojí pohřebák. Muž pod plachtou je mrtvý, ale plachta nezakrývá celé jeho tělo, a tak vidíme bílé vlnité vlasy, na chlup takové, jaké má náš despotický sbormistr. Třeba je to on, říkáme si s kamarádkou, určitě to je on, šeptáme si a spiklenecky svíráme dlaně v pěst… Jenže sbor další středu pokračoval. Takže sbormistr to nebyl.
 
-  
+</section>
+
+<section>
 
 A mně to tam najednou – na berlínském večírku – konečně došlo. Pokud to nebyl sbormistr, pak pod tou plachtou ležel už tehdy Paul. Paul v budoucnosti. Stejně mrtvý, mrtvý muž. Despoticky úporný stařec na konci cesty, písčitá drolící se skála, muž kaskadér, který neví, že jsem tisíckrát silnější než on, neví, protože je mrtvý, a je mrtvý, protože to neví…
 
 A tak jsem ten příběh konečně poprvé vyslovila nahlas. Všechno jsem řekla, ale nikdo ničemu nerozuměl, nebylo to srozumitelné a nebylo to o Arizoně.
 
-  
+</section>
+
+<section>
 
 Necelý rok nato Paul skutečně ve věku sedmadevadesáti let zemřel, a mně se celý příběh vybavil znovu. Napsala jsem v berlínské kuchyni dvě kondolence. Jednu jsem poslala své milované, mezitím skoro osmdesátileté tetě Hanně v angličtině a zněla velmi účastně (neboť se nikdy nezbavím pocitu podivné sklíčenosti), a pak druhou, na níž stálo: _Hodila bych tě do řeky, ať tvoje duše už napořád jen bloudí. Jenže co by pak bylo s Hannou?_
 
 Zhruba tohle jsem napsala rukou na náhodně nalezenou pohlednici se šimpanzem. A nakonec jsem ji zahodila do koše.
 
-  
+</section>
+
+<section>
 
 Nevím, k čemu je dobré, že Kuba sedí v květnovou sobotu ve tbiliské herně a nechává se obtěžovat návrhy dvou agresivních ženských… Sedí tam, aby o tom mohl psát? Aby mi podal zprávu ze světa, ve kterém je právě teď bezbranný a sám? Anebo to napsal, aby mě pobavil? A co mu mám napsat já? Skutečně tenhle příběh?
 
@@ -256,3 +292,5 @@ Nevím, Jakoubku, k čemu je dobré, být vydaný napospas prudkému slunci, kt
 Možná ale, že jsme všichni tu a tam jako ty vysychající pouštní kaktusy. V Arizoně, v Gruzii, všude.
 
 Když přežijeme, přijde lehké mrholení a svlaží nás. Mrholení přejde v déšť. Déšť se přemění v řeku. A přes tu řeku přejdeme lávkou zpátky tam, kde jsme byli, než se to stalo, než jsme se stali želvou. Na ostrov, kde jsme zase takoví, jací už nejspíš nikdy nebudeme.
+
+</section>

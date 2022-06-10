@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kapralova-ostrovy-42206f1",
-  "revision": "42206f1",
+  "identifier": "kapralova-ostrovy-f0dc7ff",
+  "revision": "f0dc7ff",
   "readingOrder": [
     "promo.html",
     "ostrovy_005.html",
@@ -37,8 +37,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:21:06 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870866031
+    "date": "Fri Jun 10 2022 17:51:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883472153
   },
   "documents": [
     {
@@ -376,9 +376,9 @@
     {
       "title": "Ostrov ohraničené konečnosti",
       "file": "ostrovy_021.html",
-      "words": 3,
+      "words": 4,
       "chars": 28,
-      "ideas": 1,
+      "ideas": 2,
       "role": "chapter",
       "order": 17,
       "prev": "ostrovy_020.html",
@@ -496,9 +496,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 114,
-      "chars": 726,
-      "ideas": 15,
+      "words": 84,
+      "chars": 565,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "ostrovy_026.html",
@@ -516,14 +516,14 @@
   ],
   "totals": {
     "all": {
-      "words": 31185,
-      "chars": 188997,
-      "ideas": 1143
+      "words": 31156,
+      "chars": 188836,
+      "ideas": 1136
     },
     "chapters": {
-      "words": 31066,
+      "words": 31067,
       "chars": 188239,
-      "ideas": 1124
+      "ideas": 1125
     }
   }
 }

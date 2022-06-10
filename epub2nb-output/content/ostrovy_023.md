@@ -3,6 +3,8 @@ title: Ostrov ohraničeného poznání
 contentType: prose
 ---
 
+<section>
+
 Všechno se děje nezvratně.
 
 Člověk nemusí být ani moc chytrý, aby poznal, že život je vlastně neustálé hemžení, a pokud se pohybu vyhýbáme, snažíme se vlastně jen směšně zastavit, co je ve skutečnosti nezastavitelné.
@@ -35,7 +37,9 @@ A pan Sommerfeld? Ten mohl zase mít pocit, že nežije nadarmo, když věci po
 
 Věcičky se s menšími či většími přestávkami objevovaly na parapetu ještě další dva tři roky.
 
-  
+</section>
+
+<section>
 
 Zhruba po třech letech nepravidelného odběru věciček došlo starší z dcer lepidlo. Byl advent, venku mrholilo. Nechtělo se mi v tom marastu ven, a tak jsem tehdy desetileté dceři poradila, ať se zkusí zeptat u sousedů. Odešla v papučích z bytu, ani ahoj mi neřekla. Za hodinu jsem znervózněla. Na stole stála studená polívka a dítě nikde.
 
@@ -51,13 +55,17 @@ Oči mi po příchodu domů zářily.
 
 „Kdes byla tak dlouho?“ udeřily děti.
 
-  
+</section>
+
+<section>
 
 Vánoce minuly.
 
 Nový rok taky. Nezačal zrovna nejlíp. Ani pana Sommerfelda jsem na chodbě nepotkávala. Věci se už na parapetu taky neobjevovaly, a pokud, pak výhradně knihy, ty, co jsem o Vánocích obdivovala v knihovně pana Sommerfelda, takže jsem starého souseda začala podezírat, že jsou to věcičky určené pro mě a že mi je takto nešikovně dává. Začínala jsem mít utkvělý pocit, že bych měla podniknout nějaký krok, pozvat pana Sommerfelda k nám, poděkovat mu, zeptat se na zdraví. A pak jsem zase měla pocit, že nemusím dělat vůbec nic, že mám svých starostí taky dost.
 
-  
+</section>
+
+<section>
 
 Věcí na parapetu ubývalo, děti rostly. Uběhla další zima, jaro a léto. Občas se z oken naší ložnice ozvala hádka, z kuchyně zvuk rozbíjených talířů, nevylučuju, že mě pan Sommerfeld někdy potkal na chodbě se zarudlýma očima. On sám býval taky čím dál zasmušilejší.
 
@@ -65,7 +73,9 @@ Tou dobou se mě navíc, kdykoli jsme se potkali, ptal pořád na to samé: „T
 
 Nežilo se mi zrovna lehce a tyhle dotěrné otázky depresivně vypadajícího starého souseda mě ještě dobíjely. Nebo dráždily. Nejspíš obojí.
 
-  
+</section>
+
+<section>
 
 Pak se věci v mém životě daly do pohybu. Jednoho říjnového dne přespaly děti u kamarádky a my jsme se s mužem rozešli. A tentokrát to byl rozchod definitivní. Definitivní jako obraz, který jsem spatřila na ulici u zastávky autobusu.
 
@@ -73,11 +83,15 @@ Nebylo ještě ani šest ráno, tma jako v pytli. Cyklista bez helmy na neosvě
 
 Cyklista byl mrtvý a mé manželství taky.
 
-  
+</section>
+
+<section>
 
 Pana Sommerfedla jsem po téhle podivné noci potkávala pochopitelně dál, ale bylo to jiné. Už se mě neptal, jen jsme se uspěchaně pozdravili a šli si po svých. Jako bychom se tenkrát o Vánocích poznali příliš prudce. Jako bychom se báli překročit bludný krok decentního sousedského odstupu. Jako bychom se nedokázali přiblížit už ani o krok. Dva melancholici, co by si třeba rádi ještě jednou popovídali o Hölderlinovi, ale najednou, najednou to už nešlo. Nadechla jsem se třeba, že ho pozvu na svoje berlínské čtení, a pak jsem to nevyslovila. Místo toho jsem vzápětí strojeně a neupřímně pozvala souseda z jiného poschodí, mladého lékárníka – a vyslovila tak větu určenou pro pana Sommerfelda.
 
-  
+</section>
+
+<section>
 
 Můj bývalý muž se odstěhoval.
 
@@ -87,7 +101,9 @@ Stála jsem před jeho dveřmi, zvonila, jenže nikdo neotvíral.
 
 Po chvíli otevřela dveře jeho sousedka a řekla mi, že pro pana Sommerfelda přijela sanitka, asi před měsícem, byt je od té doby prázdný. Obešla jsem ještě několik sousedů a ptala se na pana Sommerfelda. Nikdo nic nevěděl.
 
-  
+</section>
+
+<section>
 
 Už zase je jaro. Vlahé jaro.
 
@@ -105,7 +121,9 @@ Kdo ví.
 
 Poznání je ohraničené.
 
-  
+</section>
+
+<section>
 
 Přesto si myslím, že by pan Sommerfeld rozuměl. Rozuměl by tomu a já bych mu navíc ráda přinesla pár předmětů, protože jsem se za poslední rok konečně naučila zbavovat zbytečností. Nebyly by to předměty po mém bývalém muži, ty jsem celkem bezstarostně naházela do popelnic už loni v létě. Ne. Byly by to věci, které nepotřebujeme, a přesto na nich z nějakých tajemných důvodů lpíme, protože se v bytě zabydlí se samozřejmostí, s jakou s námi žijí třeba ploštice v parketách.
 
@@ -119,6 +137,10 @@ Při té příležitosti bych se ho zeptala na výlet do Benátek.
 
 Zeptala bych se ho konečně na paní Sommerfeldovou.
 
-  
+</section>
+
+<section>
 
 Kdybych věděla kam, kdybych skutečně věděla kam, přišla bych se s panem Sommerfeldem aspoň rozloučit.
+
+</section>
