@@ -3,11 +3,15 @@ title: Ostrov ohraničené poezie
 contentType: prose
 ---
 
+<section>
+
 Jednoho dne se po nás všech zapráší jako po flusu. To je neodvratný fakt, tak jako každá Wittgensteinova věta pronesená po krátkém odpoledním spánku. Věta fatálně směšná i nedělně sváteční, nahořklá jako žluč sardele.
 
 Jenže flus je německy fluss, řeka. A takový flus je přes svou efemérnost nesmrtelný, vlévá se do moře, do oceánu flusů, do věčnosti…
 
-  
+</section>
+
+<section>
 
 Za pár týdnů jedu navštívit tátu, uvařím mu silný vývar, prohodíme pár slov u krbu, zasmějeme se anekdotám, podám mu hole, které tolik nesnáší, anebo mu ty hole naopak nepodám, když je tolik nesnáší. Ještě nevím.
 
@@ -27,13 +31,17 @@ Jen smutní o štěstí.
 
 Jen žízniví o lahodném víně.
 
-  
+</section>
+
+<section>
 
 Autokratické vlády jsou však zatím spíš čínsky pragmatické, přestože i v nich se dá najít absurdní humor, dokonce blízký ďábelské anekdotě. Třeba když český fašista s migračním pozadím Okamura znevažuje romský tábor v Letech a zaštiťuje se přitom s nebetyčnou drzostí svými židovskými přáteli, kteří údajně sami spatřují rozdíl mezi Osvětimí a Lety, kde čeští četníci topili právě narozená cikánská nemluvňata.
 
 Ale já nechci mluvit o nevolnosti, volme si každý, koho chceme, jen nezapomínejme, že řeka teče do moře.
 
-  
+</section>
+
+<section>
 
 Včera jsem seděla v čekárně polikliniky na Grünbergerstrasse. Bolelo mě břicho z žaludeční virózy, došly mi léky na žlázu a k tomu jsem měla vši. Trojlístek, který si zaslouží trpělivé posezení v čekárně u německé doktorky Dashzeveg Packy, která se narodila v Ulánbátaru a jejíž bratr, taky doktor, žije v Košicích.
 
@@ -47,7 +55,9 @@ Nejspíš měl housera.
 
 Rusky mluvící maminka asijské tváře si psala domácí úkoly z němčiny, její osmileté děvčátko si hrálo s dřevěnými kostkami. Občas se tak do obrazu sedmihlavého mlčení ozval hlasitý pád kostek. Jinak nic.
 
-  
+</section>
+
+<section>
 
 Na zdi protějšího domu byl nasprejovaný nápis: _For how long is forever, Mia_? (Jak dlouho je navždy, Mio?)
 
@@ -59,7 +69,9 @@ Navždy je překonání dočasnosti.
 
 Navždy je poezie, navždy je flus.
 
-  
+</section>
+
+<section>
 
 A navždy je taky ostrovní příběh o autobusovém řidiči Janovi z Brna a jeho pasažérech.
 
@@ -75,7 +87,9 @@ Jan je prorokem v říši autobusáků. Vážný i chlapecký, soustředěný 
 
 Není to ovšem žádný Jarmuschův Paterson. I když i Jan napíše občas básničku, třeba tuhle:
 
-  
+</section>
+
+<section>
 
 _Navštívil jsem kamaráda  
 Plechového rozervaného  
@@ -85,7 +99,9 @@ jako ty moje
 před nimiž stojíš ty  
 a tvoje bolest._
 
-  
+</section>
+
+<section>
 
 Janovy statusy jsem si v Berlíně čítávala osm let. Pak jsem mu loni v dubnu zavolala a setkali jsme se v Brně v pět ráno na zastávce ve Slatině. Bylo to jednoduché jako písnička.
 
@@ -99,7 +115,9 @@ Třeba rozhovor dvou starých žen. Ta první se chlubila, že prodává barák 
 
 Řidiči po šichtě si v jedoucím Janově autobusu vyprávěli temné anekdoty o havárkách. Ještě jiná žena pronesla pak za zastávkou Čtvery hony čisté haiku:
 
-  
+</section>
+
+<section>
 
 > „Zima je  
 > sem si to vyšlápla  
@@ -107,7 +125,9 @@ Třeba rozhovor dvou starých žen. Ta první se chlubila, že prodává barák 
 > Je mně hanba si ju  
 > tu čepicu dát na hlavu.“
 
-  
+</section>
+
+<section>
 
 O Janovi jsem nakonec natočila zvukový dokument. A bylo to, jako bych prožila skutečný ruský román. Dokument se zvukově nepo­vedl, celý jsme ho experimentálně předělávali do rozhlasové hry, ale to by byl zase jiný příběh.
 
@@ -120,3 +140,5 @@ O cestě z konečné na konečnou.
 Jak dlouho je navždy, Mio?
 
 A kdo je Mia?
+
+</section>

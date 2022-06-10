@@ -3,6 +3,8 @@ title: Ostrov ohraničené zpovědi
 contentType: prose
 ---
 
+<section>
+
 Tohle je příběh skutečnosti a nikdy nenatočeného filmu, který mi daroval blízký přítel.
 
 Čtyřproudová dálnice. Fádní horizont s nadjezdy a podjezdy. Nekonečná kolona aut v mravenčím pohybu splývá v jedinou dálnici mezi Tokiem a Prahou.
@@ -15,19 +17,27 @@ Z jeho GPS se ozve ženský hlas: „Otoč se doleva, je-li to možné.“
 
 Ľubo je důchodce se ztrátou hlasivek. Bývalý šofér ve službách StB. Má dvě chaty a dům v Bratislavě, v Žilině měl do loňska ukrajinskou přítelkyni. Kdysi šmíroval pro Státní bezpečnost i paní Danu a jejího japonského muže Hašimota.
 
-  
+</section>
+
+<section>
 
 Paní Dana s dospělou dcerou Lenkou sedí v autě, dopravní zácpa na japonské dálnici. Lenka řídí, vedle ní sedmdesátiletá Dana. Nohy má na palubní desce. Zapálí si cigaretu. Dcera vydechne, jako by se kouřem dusila, neřekne však nic. Dana se na dceru shovívavě usměje a taky neříká nic, spustí automatické okýnko, vyfoukne kouř.
 
-  
+</section>
+
+<section>
 
 Ľubo na slovenské dálnici. V dopravní zácpě poslouchá už zase vemlouvavý ženský hlas z GPS: „Otoč se doleva, je-li to možné.“ Ľubo se otáčí celým trupem doleva, stařecké ruce s okousanými nehty na volantu.
 
-  
+</section>
+
+<section>
 
 Ďábelská zaměnitelnosti dálničních krajin… Kde to jsme? Zvedá se vítr, podzim.
 
-  
+</section>
+
+<section>
 
 Díváme se Ľubovým směrem a znovu spatříme ve stojící koloně auto, které řídí Lenka, po otci Japonka, po matce Slovenka. Konzervativní dcera temperamentní Dany, která si roku 1984 vzala v Praze japonského muže Hašimota. Auta teď stojí vedle sebe v dálniční zácpě. Jedno však za Tokiem, druhé před Bratislavou.
 
@@ -57,11 +67,15 @@ Dana s dcerou nastupují do auta.
 
 Pomalý posun směr Tokio.
 
-  
+</section>
+
+<section>
 
 Po slovenské dálnici se šnečím tempem sune Ľubo. Vypadá to, jako by se na okamžik obě auta ocitla v protisměru, jako by se oči estébáka Ľuba na Slovensku střetly s očima Dany v Japonsku.
 
-  
+</section>
+
+<section>
 
 Dana s Lenkou vejdou do tokijského obchodního domu. Zkouší si v kabince šaty:
 
@@ -77,21 +91,29 @@ Japonská prodavačka mechanicky prochází kolem kabin, mechanicky se usmívá 
 
 „Nebuď upjatá a podej mi ty fusekle, co je toto za hnus.“
 
-  
+</section>
+
+<section>
 
 Ľubo na slovenské dálnici potřebuje benzin, ale na benzince je fronta, a tak zase jen rezignovaně čeká, venku mrholí, nad zoraným polem létají v houfu havrani, létají pořád dokola, jako by se nemohli rozhodnout pro jednoznačný pohyb, jako by i Ľubo byl v tuto chvíli starým opelichaným havranem, sedí a vzpomíná, bubnuje do volantu…
 
-  
+</section>
+
+<section>
 
 Ženy vyjdou z obchodního domu s taškami oblečení a čekají teď ve frontě na jezdicí chodník, který je převeze do jiného patra…
 
 „Chodila jsem s Hašim po Praze a cítila, že se na nás každou chvíli lepí estébácký oči toho slovenskýho idiota… Leni, mně se ti o tom ani nechce mluvit.“
 
-  
+</section>
+
+<section>
 
 Estébák Ľubo se svým vozem vjíždí do myčky. Ľubovy zamžené, stařecké oči… sedí v autě, projíždí mycím automatem v neprodyšně uzavřeném autě, kolem kterého to chrčí a pláče, Ľubo si myslí: Možná sem mohl žít jinak, nemusel sem dělat, co sem dělal, ale ani hrbatá by si o mě kolo neopřela…
 
-  
+</section>
+
+<section>
 
 Před záchodky v japonském obchodním domě stojí Lenka a maminka Dana.
 
@@ -105,7 +127,9 @@ Před záchodky v japonském obchodním domě stojí Lenka a maminka Dana.
 
 „Zavoláme mu… Máš alergii nebo co?“
 
-  
+</section>
+
+<section>
 
 Ľubo vyjíždí z myčky a vrací se na dálnici. Společnost mu dělá žena z GPS. Dálnice se opravuje, v rádiu hlásí havárku, další zácpa, Ľubo popojíždí, stojí, popojíždí, stojí… lidé ve vozech, nacpaných autobusech, bezejmenná, ztrápeně veselá tělesnost… Ľubo teď zblízka sleduje blikající odtahové vozy, pak spatří nehodu.
 
@@ -113,7 +137,9 @@ Na silnici leží kus ženské nohy, noha je zpola zakrytá černou plachtou, ve
 
 Ľubovi zazvoní mobil. Manželka do sluchátka zakřičí, proč nekoupil sekanou. Ľubo řekne, promiň, Beatko, a když telefon odloží, uleví si: A běž už do prdele…
 
-  
+</section>
+
+<section>
 
 Lenka sjede s maminkou a filmařem z japonské dálnice: borovicové lesy, písčitá cesta k jezeru, levný motel u vody. Zašlá uniforma japonského recepčního. Ženy jdou dlouhou chodbou s psychedelickými tapetami jelínků, večerně kulatá záda, kufry, břemena a lehkost současně. Za nimi kráčí nejistým krokem filmař Petr. Ženy otevřou dveře pokoje a zabouchnou je Petrovi před nosem, svalí se vyčerpaně na gauč… Petr stojí rozpačitě na chodbě.
 
@@ -139,7 +165,9 @@ Dana je brzy opilá, po chvíli Petra už ani nepoznává…
 
 „Táta chtěl mít hlavně klid. Jsme měli v Kjótu přítele, japonskýho komunistu, kterej nám dával dlouhý přednášky z marx-leninismu. A Haši mi říkal: Prosím tě, prosím tě, hlavně se usmívej a pokyvuj hlavou, jsi v Japonsku. Ponížení, ohrožení, ustrašenost, bez konce, a do toho Hašiho záchvaty, že ve skříni spí estébák… a s věkem toho přibývalo, Leni, ta paranoia.“
 
-  
+</section>
+
+<section>
 
 Je noc. Na gauči leží prázdné flašky od vína, popelník s cigaretami. Matka v družném hovoru s Lenkou, jako by tam filmař už ani neseděl. Harmonie intimity.
 
@@ -151,7 +179,9 @@ Dana se ptá japonsky dcery, o čem by Petr jako chtěl, aby se s Hašim bavil
 
 „Nevím,“ pokrčí Lenka rameny, „o lásce?“
 
-  
+</section>
+
+<section>
 
 „O lásce.“ _(řekne Petrovi maminka česky a vyprskne smíchy)_
 
@@ -179,11 +209,15 @@ _(Matka japonsky k dceři)_: „Miláčku, pošli ho do prdele… teď jsem se 
 
 _(Za zavřenými dveřmi slyšíme opilý ženský hlas a smích)_: „A ještě něco… Všichni estébáci mají okousaný nehty.“
 
-  
+</section>
+
+<section>
 
 V prázdné bratislavské garáži estébáka Ľuba se rozsvítí světlo. Garáž, poslední Ľubovo útočiště, mušle Ľubova života, ostrov ohraničené zpovědi. Ľubo má okousané nehty. Sedí ve svém autě, pustí si stěrače, stěrače dřou nasucho. Ľubo se nehýbe, jako by na něco vzpomínal.
 
-  
+</section>
+
+<section>
 
 Filmař stojí u okna japonského motelu a šmíruje za závěsem dvě ženy u jezera, matku a dceru. Je ráno… Ženy kráčí po pláži, jejich stopy mizí v písku…
 
@@ -199,7 +233,9 @@ Filmař stojí u okna japonského motelu a šmíruje za závěsem dvě ženy u
 
 „Tajnůstkář.“
 
-  
+</section>
+
+<section>
 
 Čtyřproudová dálnice, kdekoli na světě.
 
@@ -212,3 +248,5 @@ Starý estébák Ľubo vyjíždí autem z garáže, pustí si hlas své milovan
 Protože je bohabojný, ví, že by se měl stydět.
 
 Protože se bojí své ženy, přemýšlí, kde dnes večer v Bratislavě sežene sekanou, aby měl doma klid…
+
+</section>

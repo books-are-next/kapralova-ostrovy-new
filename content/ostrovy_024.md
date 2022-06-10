@@ -3,9 +3,13 @@ title: Ostrov ohraničené plnosti
 contentType: prose
 ---
 
+<section>
+
 Byl to dlouhý červnový den, divoký a akční jako sen. Začal vlastně už tím, že jsme si s Adamem koupili dvě různé letenky z Budapešti do Kyjeva, já na let o hodinu dřív, Adam zase na jiné letiště třicet kilometrů za Kyjevem. Zjistili jsme to až těsně před odletem. A pak jsme na letiště za Budapeští uháněli dvousetkilometrovou rychlostí. Zdálo se mi, že už ani nejedeme, že letíme. Proběhla jsem koridorem na poslední chvíli, zpocený Adam mi zamával, tak v Kyjevě za pár hodin.
 
-  
+</section>
+
+<section>
 
 V letně rozpáleném podvečerním Kyjevě na mě u východu letiště čekala naše průvodkyně Soňa, éterická a plachá, v dlouhé batikované sukni a zelených vlasech, jako by se probudila v mých devadesátkách. Rozpačitě něžné setkání. Viděla jsem skutečně sebe, jen o dvacet let mladší, slyšela jsem se koktat vytříbenou, ale tuhou češtinou, komplikovanou navíc občasným rudnutím z nervozity. Poznávala jsem se v Soně a snažila se, aby neměla nejmenší důvod k ostychu. Bylo to namáhavé.
 
@@ -51,7 +55,9 @@ Jednu? vykřikla žena bojovně. Pačemu? Tady stojí, že tři.
 
 Neodpověděla jsem, ale usmála se na ni. I přes rýmu mě to udeřilo do nosu, směs výparů z kuchyňky a čpavý smrad moči a plísně. Žena měla kruhy pod očima a vypadala, že jen dělá, co dělat musí. Něco jsem podepsala, ukázala jí naše pasy, pak jsme vešli s kufry do pokoje. Byl hned vedle kanceláře. Stejně malinká nevětraná komora s jediným zamřížovaným oknem ve výšce našich hlav, s fialovými tapetami, rozvrzanou postelí a umělohmotnými motýlky, kteří se horkem odlepovali od stěn a pomalu klesali na linoleum.
 
-  
+</section>
+
+<section>
 
 Motýlci klesali na lino, my klesali na postel. Budeme se teď nejspíš milovat, běželo mi hlavou, ale pak jsem mátožně vstala, protože mi došlo, že od pokoje dosud nemáme klíč.
 
@@ -67,7 +73,9 @@ Co teď?
 
 Ležela jsem se svým milým v posteli předměstského ukrajinského bordelu, držela ho za ruku a nebyla schopna sebemenšího pohybu. Zavřeli jsme oči a navzájem předstírali, že spíme. Není nám přece dvacet. Ale čas od času jsme se ve tmě spatřili, zasmáli se tomu a pak oči zase zavřeli. Z vedlejšího pokoje se tu a tam ozvalo milostné hekání. Míchalo se v podivném ambientu se zvuky jedoucích aut, poslouchali jsme vzdálené zvuky televize a hekání jiných souložících.
 
-  
+</section>
+
+<section>
 
 Spíš ještě? zeptal se mě Adam v půl sedmé ráno. Ani ne, řekla jsem úlevně, protože pokud jsem vůbec usnula, pak chvilkovým mikrospánkem nad ránem.
 
@@ -77,7 +85,9 @@ Vyšli jsme z prádelny _Booking in_ do červnového šírání s kufry na kol
 
 Vraceli jsme se do civilizace, přes park, k metru. A smáli se, docela potichu, pak čím dál hlasitěji.
 
-  
+</section>
+
+<section>
 
 Park byl po ránu skutečně vlahý. Rosa, zpěv ptáků, cvrčci, ještě ne horké slunce, štěkot psů a několik ranních běžců. V dálce pomník, který jsme včera ve spěchu minuli. Pojďme se podívat blíž, řekl Adam už zase v turistické náladě.
 
@@ -87,7 +97,9 @@ Viděla jsem na tabuli postupně všechny Adamovy předky. Seděli tam, oči vyt
 
 Viděla jsem na tabulkách Babího Jaru umírat ženy a děti a Adamovy předky, a viděla jsem na nich najednou i ty zmalované ženy ve žlutých silonkách z našeho bordelu, viděla jsem ukrajinského muže v kuchyňce, pupkatého ukrajinského strejdu, viděla jsem smrt a milovala jsem Adama.
 
-  
+</section>
+
+<section>
 
 Jeli jsme už zase metrem, pak jiným metrem, nadzemkou přes Dněpr, v něm jsme se ještě ten den k večeru koupali, smrděl, a jak jsme se smáli, že se nesmíme napít, oba jsme se naglgali a smáli se ještě víc.
 
@@ -97,7 +109,9 @@ Italští turisti? Zavřeno, panimajete, zavřeno, a děngi máte?
 
 Jsme Češi, řekla jsem mu rusky a zalhala i za Maďara. To se správci zahrady nečekaně zalíbilo, objal mě kolem ramen, Adama poplácal chlapácky po zádech, začal nás oslovovat _braty_ a mluvil o českém národě, který spasí vše ukrajinské od ruského ďábla.
 
-  
+</section>
+
+<section>
 
 V rozkvetlé botanické zahradě jsem už za chvíli spatřila nádherné magnolie, ale za nimi zase vykukovaly prostitutky, a ještě za nimi leželi mrtví z Babího Jaru.
 
@@ -123,7 +137,9 @@ Tady je klid.
 
 Tady pracuju, tady žiju a tady umřu.
 
-  
+</section>
+
+<section>
 
 Chápala jsem tu bělovlasou ženu. Naprosto a bezvýhradně jsem chápala její úsměv, veselé šedozelené oči, vrásky, volnou chůzi s rukama, které rozhazovala sem a tam, jako by se chystala tančit.
 
@@ -134,3 +150,5 @@ Je to ohraničené, ale není vyloučeno, že to je.
 Je to ohraničené, ale je to.
 
 Někde a někdy to určitě je.
+
+</section>

@@ -3,6 +3,8 @@ title: Ostrov ohraničené radosti
 contentType: prose
 ---
 
+<section>
+
 Nestačí, že stromy jsou už skoro holé. Na berlínské chodníky se toho s listopadovým listím sneslo daleko víc. Mezi psími exkrementy a střepy z pivních lahví tlí v ulicích Friedrichshainu plesnivina snů z babího léta.
 
 Sedíme s Miriam u Indů a vymýšlíme, čím se od příštího roku uživit a za co v Berlíně žít. To není dobré, mít tyhle myšlenky, když venku padá studená mlha.
@@ -17,7 +19,9 @@ A co by nám chybělo, kdybychom tu jistotu měly? Žily bychom jako devadesát
 
 Tímto se uklidňujeme. Je to naše vlídná sociální ukolébavka rozkolíbaných volných nohou, které nám tady, v restauraci u Inda, olizují pod stolem neviditelní psíci. A my jsme za ně – za ty psíky – rády.
 
-  
+</section>
+
+<section>
 
 Vedle nás u stolu sedí trojice. Silnější muž, který se rezignovaně soustředí na jídlo, muž přerostle mladého zevnějšku a mladá, mlčen­livá žena.
 
@@ -27,11 +31,15 @@ Takže to je producent, říkáme si mezi sousty. Producent, který hraje roli �
 
 Mluví a mluví, jako by kvílel chvilkovou slastí při dojídání krevet. Tu a tam zacinkají slova jako: _feedback_, _peníze_, třikrát se ozve slovo _Curych_ a jednou _Karibik_.
 
-  
+</section>
+
+<section>
 
 Sedíme u Inda a žvýkáme tuhé jehněčí maso. Sedíme ve výloze indic­ké restaurace. Tu a tam se z mlhy vynoří náhodný chodec, který nás zkoumá jako ryby v akváriu, pak se jeho tvář odvrací a on mizí v útěšné berlínské mlze, ve které se snadno schovají i jindy tak zářivé spacáky polských bezdomovců.
 
-  
+</section>
+
+<section>
 
 Hlas dvoumetrového Švýcara s řídnoucí kšticí nabývá na intenzitě. Pákistánec – podle turbanu sikh, se opře lokty o bar. S pohledem soustředěným do oranžového stropu restaurace, kterým se procházejí andělé.
 
@@ -41,13 +49,17 @@ Dívka s tváří chytré myšky si mechanicky utře ústa ubrouskem, odpoví o
 
 V trpném rodě trpí, a kdo ví, k čemu jí tohle utrpení bude jednou dobré, jaký zisk jí přinese tento oběd s mluvícím smart homo sapiens.
 
-  
+</section>
+
+<section>
 
 Sázím se s Miriam o dvacet eur, že za okamžik zajdu k producentovi a řeknu: „Promiňte, my vás tu posloucháme a vy… zdá se, že jste skutečně mimořádně zajímavý… Víte, dokonce nás napadlo, nezlobte se, napadlo nás – neřídíte vy náhodou menší donáškovou službu?“
 
 V tu chvíli se ozve sikhův smích, andělé na stropě zatančí čardáš dervišů, neviditelní pejsci pod stolem si olíznou čumáčky.
 
-  
+</section>
+
+<section>
 
 Střih. Sází se se mnou o dvacet eur Miriam.
 
@@ -55,11 +67,15 @@ Jde za producentem a říká: „Že vy máte všechna esa v rukávu? Je to ta
 
 Producent se zakucká, Ind zatleská, pejsci zavrtí ocásky, andělé upraví sikhovi dlouhý vous.
 
-  
+</section>
+
+<section>
 
 Střih. Jdu za producentem a shodím mu nevhodnou čepičku z hlavy. Jeho mlčenlivá kolegyně, patrně polská asistentka Kasia, se zasměje a schová bělostně ambiciózní chrup decentně do ubrousku.
 
-  
+</section>
+
+<section>
 
 Střih. Zasmějeme se bezhlesně u Inda… A pak dál žvýkáme mlčky maso, promýšlíme, co asi za rok budeme dělat, kde a za co žít a co nám to vlastně chybí…
 
@@ -67,7 +83,9 @@ Kolem oken se projde postarší manželský pár, zadívají se na nás skrze v�
 
 Zamáváme rozpačitě, zvedáme se k odchodu…
 
-  
+</section>
+
+<section>
 
 A tak je to s naší road movie pořád. S tou, kterou píšeme, kudy chodíme. Píšeme ji, kudy chodíme, ale nikdy ji nedokončíme.
 
@@ -115,7 +133,9 @@ V budapešťských lázních ukradneme pár plavacích čepiček, i to je prak
 
 Všechno nám vychází. Všechno.
 
-  
+</section>
+
+<section>
 
 A pak přijde podzim. Ostrov radosti už máme na dosah.
 
@@ -151,7 +171,9 @@ Je okamžik, ve kterém nám zčistajasna jede naproti na kolečkovém křesle s
 
 Okrademe i stařenku?
 
-  
+</section>
+
+<section>
 
 Ne. Tentokrát už ne.
 
@@ -171,7 +193,9 @@ A žena z osady Wietstock pronese: „Fuj tajksl, já se vás lekla, máte na 
 
 Motorek zabzučí a stařenka důstojně zmizí i s vozíkem v nekonečném obzoru mecklenburské nížiny.
 
-  
+</section>
+
+<section>
 
 A ta vaše road movie skončí jak? A váš život? Kdo vám to všechno zafinancuje, he? vysloví výsměšně občané smart city v Curychu…
 
@@ -186,3 +210,5 @@ A naše podstata je vlastně vážná. Patetická, sentimentální a dojemně 
 Podobná pejskům, co se nám při obědě u Inda lísají pod stolem k nohám, jen aby dostali nažrat…
 
 A abychom my – s pejsky a anděly – nebyli na světě tak strašně sami.
+
+</section>

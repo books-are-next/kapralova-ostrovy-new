@@ -3,6 +3,8 @@ title: Ostrov ohraničené lidskosti
 contentType: prose
 ---
 
+<section>
+
 Stalo se to v lednu před několika lety. Ale někdy mi připadá, jako by to bylo včera, nebo spíš jako by se to stávalo pokaždé, když je v ulicích nezvyklé ticho, ve vzduchu zima a na chodnících lehký sněhový poprašek, nebo aspoň ranní jinovatka.
 
 Zajela jsem si na kole do Kreuzbergu na masáž nohou. Byl tehdy nečekaně teplý leden, jela jsem na masáž poprvé a nejspíš i naposledy.
@@ -11,7 +13,9 @@ Bolelo to prudce, slast a hrůza v jednom. Mačkané body se spojily s orgán
 
 Na tělech miluju chvění. Obecně. Ten sotva rozpoznatelný třas…
 
-  
+</section>
+
+<section>
 
 Cestou z masáže se mi však zatemnila mysl. Někdo mi na frekventované křižovatce Südstern ukradl zamčené kolo, za které jsem před měsícem dala týdenní výplatu.
 
@@ -39,8 +43,12 @@ Opatrně vylézám z taxíku, neslyšně zavírám dveře.
 
 „Platit nemusíš, to je dar, pomoc bližnímu!“ zvolá Voloďa.
 
-  
+</section>
+
+<section>
 
 A to je vlastně vše. Vše z ostrova ohraničené lidskosti.
 
 Dnes je ale venku krásně; žádná ranní jinovatka, dokonce v domě mého olivového muže na předměstí Budapešti bzučí moucha, a nevylučuji, že právě teď můj taxikář oprašuje zasněně svou motorku a myslí přitom na všechny ty věci, které ho navečer dojmou až k pláči.
+
+</section>

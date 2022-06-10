@@ -3,11 +3,15 @@ title: Ostrov ohraničených přání
 contentType: prose
 ---
 
+<section>
+
 „Jaké zvíře ti připomíná maminka?“ zeptá se mé desetileté dcery terapeutka na posledním sezení.
 
 „Krávu,“ odpovídá dcerka, a říká mi to i později, „krávu, mami, připomínáš mi ze všeho nejvíc krávu, nevadí?“
 
-  
+</section>
+
+<section>
 
 Převaluji se v posteli a vidím svět najednou kravskýma očima. Bučím, jsem pomalá, ale konečně stabilní, lezou po mně mouchy, oháním se po nich, vlastně mě jejich šimrání nezneklidňuje, jejich frenetický pohyb mě naopak těší, aspoň nějaký děj, mumlám si pobaveně, zatímco žvýkám luční kvítí, bzukot mých malých much a pohupování mého obřího těla příjemně uspává…
 
@@ -23,13 +27,17 @@ Když nám s bratrem moje máma pořídila prvního jezevčíka, co se jmenoval
 
 A protože jezevčice Jarmilka byla opečovávaný benjamínek a protože byla pořád tak nízko u země, že se o ni tak snadno zakopávalo, bývala od štěněčího věku dost často nemocná. Nebyly to závažné nemoci: většinou nějaké průjmy, sem tam blinkanec na perském koberci v hale, tu a tam záněty očí, nějaká bolavá no­žička.
 
-  
+</section>
+
+<section>
 
 Znala jsem od kamarádky jednoho čerstvě promovaného veterináře z brněnských Obřan. Byl to koktavý mladý muž, nesmělý a toporný jako z Čechovovy hry. Ale byl zvěrolékařem s titulem a kamarádka mi říkala, že se mu líbím.
 
 Jeho náklonnost ke mně se projevovala dokonalou péčí o Jar­milku. A protože jsem měla ráda maminku a taky našeho jezevčíka, usmívala jsem se na mladého veterináře, který psa vyšetřoval, a promlouval přitom na mou mámu, věcně, terapeuticky – na mě se zadíval jen v nestřežených okamžicích, pronesl něco jako „k… krásná f… fenečka“ a zase se odmlčel.
 
-  
+</section>
+
+<section>
 
 Nebyl mi nesympatický, jen cizí. A to i ve chvíli, kdy jsem ho poprvé navštívila v jeho rodném domě. Jarmilka měla tehdy ošklivý kousanec za uchem od odporného, jak zdůrazňovala moje máma, nebetyčně odporného dobrmana.
 
@@ -43,13 +51,17 @@ Necelý měsíc nato si Jarmilka zlomila přední nožičku a začala chřadnou
 
 Pro jistotu.
 
-  
+</section>
+
+<section>
 
 Veterinář řídil favorit, docela bourák na tu dobu, klikatými okreskami dojel až k lesní chatě. Nebyla jsem si úplně jistá, proč spolu vlastně sedíme v autě a jedeme na společný víkend, já a on, mladý ošetřující lékař naší psice.
 
 Ale bylo mi to jedno, toho léta po maturitě mi bylo všechno jedno, mlčky jsem z okýnka jedoucího auta pozorovala šípkové keře v hořícím slunci, smrkový les, louky a rybníky. Bylo vrcholící léto, čas, ve kterém mouchy s mechanickou samozřejmostí krouží kolem moučníků a něžných kravských očí.
 
-  
+</section>
+
+<section>
 
 Na naší lesní chatě nebyla elektřina.
 
@@ -61,7 +73,9 @@ Nebyl mi nesympatický, skutečně ne. Byl mi jen cizí.
 
 Ale chata byla mým domovem s okenicemi dokořán a přítomnost zvěrolékaře, který zachraňuje naši Jarmilku, příjemně otupovala všechny mé smysly. Vlastně jsem chvílemi v únavě letního večera zapomínala, že tam vůbec sedí, že ze sebe občas vysouká nějakou tu větu, o létě, o víně, o mých vlasech…
 
-  
+</section>
+
+<section>
 
 „Nepůjdem už spát?“ zeptala jsem se konečně, když mi hlava začala nekoordinovaně klimbat o stůl. Veterinář rozpačitě přikývnul, vyčistili jsme si před chatou zuby a vyšplhali po žebříku do pod­kroví.
 
@@ -87,7 +101,9 @@ Absolutní ticho prořízl zvuk letícího komára.
 
 K ránu se mi zdálo, že jsem krávou.
 
-  
+</section>
+
+<section>
 
 Posnídali jsme mlčky, a když jsme náhodou promluvili, koktali jsme oba.
 
@@ -99,7 +115,9 @@ Nekopla jsem ho nohou omylem do hlavy…
 
 Krávy jsou nedotknutelné, posvátné, nehybné, ale i ony touží po lásce.
 
-  
+</section>
+
+<section>
 
 Po našem výletě se veterinář odmlčel.
 
@@ -117,7 +135,9 @@ Taky jsem plakala pro Jarmilku, vyčítala jsem si její smrt.
 
 Rodiče si časem našli nového veterináře.
 
-  
+</section>
+
+<section>
 
 Teprve když jsem o patnáct let později rodila druhou dceru, ocitla jsem se znovu v obraze, který se stal skutečností, tak jako každá halucinace, které stoprocentně uvěříme: stala jsem se krávou.
 
@@ -127,7 +147,9 @@ Přitisknu si telátko na své kravsky znavené, mohutné tělo, dám mu napít.
 
 Buď taková i ty, holčičko moje.
 
-  
+</section>
+
+<section>
 
 Jsem kráva.
 
@@ -136,3 +158,5 @@ Jsem dům.
 A můj dům zůstane už napořád otevřený, okenice dokořán.
 
 Vstupte, mouchy, komáři a ovádi, vstupte, vy maličcí, nenechávejte mě čekat. U mě budete vždycky doma.
+
+</section>

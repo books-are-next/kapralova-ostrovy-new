@@ -3,6 +3,8 @@ title: Ostrov ohraničené naděje
 contentType: prose
 ---
 
+<section>
+
 Jsou ostrovy promarněných šancí, ostrovy zapomnění, ostrovy tichomořské a pak ty, na kterých zůstáváme navždycky trosečníky, ať se hneme, kam se hneme.
 
 Kořeny takových ostrovů rostou přímo v nás a záleží jen na tom, čím je zabydlíme a jak se nám tam bude žít, uprostřed nekonečného moře dalších ztroskotanců.
@@ -23,7 +25,9 @@ My ostrovani míváme totiž pořád spoustu představ… Sníme o řekách a 
 
 Jenže – já bych teď chtěla psát o něčem jiném: o ostrovech skutečných.
 
-  
+</section>
+
+<section>
 
 Jedním z takových ostrovů je dunajský Svatoondřejský ostrov. Leží dvacet kilometrů severně od Budapešti. Zleva i zprava ho obtéká sentimentálně vrtkavý, sametově prudký Dunaj. Jsou tu čtyři vesnice a pak jedna docela unikátní chatařská kolonie Menedék.
 
@@ -53,7 +57,9 @@ V sedmdesátých letech se kdosi z ostrova pokusil menedéckou osadu zapálit.
 
 Posledních třicet let je celkem v klidu, místní ostrované hrají s ostrovany na ostrově, s Menedéčany, fotbal.
 
-  
+</section>
+
+<section>
 
 Sedíme na terase chaty číslo sedm. Paní Elsa, tlumočnice z maďarštiny Eva a já. Elsa letos oslavila devadesát sedm let. Její rodina má v lese ještě pět dalších chat. Ona ve své chatičce žije od roku 1945. Na stole leží obrovská bezdrátová sluchátka. Elsa poslouchá od rána do noci operu. Celý život milovala operu. Po válce pracovala v knihtisku. Ještě před pár lety sem jezdívala z Budapešti stopem. Mávala na silnici číslo jedenáct, odhodlaná stopařka z Menedéku.
 
@@ -75,7 +81,9 @@ Ukazuje mi rozmáchlým gestem, kde stály před chatou pivoňky. Před dvaceti 
 
 Verdiho opera vrcholí, vzduch je srpnově nehybný. Elsa se ožene po komárovi. Trefí ho a to ji rozesměje. Krev na vrásčitém, skoro stoletém předloktí. Sluchátka leží na stole, teď už se v nich začínají ozývat první tóny z _Madam Butterfly_.
 
-  
+</section>
+
+<section>
 
 Příští léto mi v Menedéku znovu ze své verandy ukáže, kde všude měla pivoňkový ráj. Bude jí devadesát osm.
 
@@ -84,3 +92,5 @@ A já ty pivoňky, tak jako letos, ucítím. Protože vzpomínka na vůni pivon
 I tady, v Menedéku, na ostrově ostrova.
 
 Hlavně tady, na ostrově ohraničené naděje.
+
+</section>
