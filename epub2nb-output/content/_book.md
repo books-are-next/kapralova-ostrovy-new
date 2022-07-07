@@ -37,7 +37,7 @@ readingOrder:
   - ostrovy_024.html
   - ostrovy_025.html
   - ostrovy_026.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

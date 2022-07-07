@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kapralova-ostrovy-7713011",
-  "revision": "7713011",
+  "identifier": "kapralova-ostrovy-664aade",
+  "revision": "664aade",
   "readingOrder": [
     "promo.html",
     "ostrovy_005.html",
@@ -34,11 +34,11 @@
     "ostrovy_024.html",
     "ostrovy_025.html",
     "ostrovy_026.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:09:05 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978945597
+    "date": "Thu Jul 07 2022 08:29:01 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182541403
   },
   "documents": [
     {
@@ -482,7 +482,7 @@
       "role": "chapter",
       "order": 22,
       "prev": "ostrovy_025.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -495,11 +495,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 128,
-      "chars": 833,
+      "chars": 832,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "ostrovy_026.html",
       "next": null,
@@ -516,9 +516,9 @@
   ],
   "totals": {
     "all": {
-      "words": 31200,
-      "chars": 189104,
-      "ideas": 1144
+      "words": 31314,
+      "chars": 189829,
+      "ideas": 1159
     },
     "chapters": {
       "words": 31067,
