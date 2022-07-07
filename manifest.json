@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kapralova-ostrovy-664aade",
-  "revision": "664aade",
+  "identifier": "kapralova-ostrovy-43f929d",
+  "revision": "43f929d",
   "readingOrder": [
     "promo.html",
     "ostrovy_005.html",
@@ -37,8 +37,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 08:29:01 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657182541403
+    "date": "Thu Jul 07 2022 10:01:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657188086557
   },
   "documents": [
     {
