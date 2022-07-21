@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kapralova-ostrovy-43f929d",
-  "revision": "43f929d",
+  "identifier": "kapralova-ostrovy-a16cf6e",
+  "revision": "a16cf6e",
   "readingOrder": [
     "promo.html",
     "ostrovy_005.html",
@@ -37,8 +37,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:01:26 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188086557
+    "date": "Thu Jul 21 2022 14:39:02 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414342837
   },
   "documents": [
     {
@@ -497,7 +497,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 128,
-      "chars": 832,
+      "chars": 833,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -517,7 +517,7 @@
   "totals": {
     "all": {
       "words": 31314,
-      "chars": 189829,
+      "chars": 189830,
       "ideas": 1159
     },
     "chapters": {
