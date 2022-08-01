@@ -13,6 +13,7 @@ meta:
   contentType: prose
   publisherShort: mkp
   edition: beletrie
+  isbn: 978-80-274-2605-8
 readingOrder:
   - promo.html
   - ostrovy_005.html
